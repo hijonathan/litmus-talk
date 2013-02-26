@@ -1,0 +1,96 @@
+Brave New World
+===============
+
+
+So what do we get when we unshackle ourselves from Outlook?
+
+# CSS3
+
+You may already be intimately familiar with modern CSS, but here's a quick recap of the parts I think can be particularly interesting for email:
+
+
+### [Animations](https://github.com/daneden/animate.css)
+
+Animations are particularly cool when done right. More people are starting to open email in mobile, and it's going to be even more difficult to stand out. A subtle transition/animation can go a long way to making a strong impression.
+
+
+### [Drawings](https://developer.mozilla.org/en-US/demos/detail/pure-css3-homer/launch)
+
+Ros and Justine have written about cool image fallbacks using background colors and alt text styling. But sometimes you just absolutely want your image shown.
+
+You can either use an image to HTML converter like [this one](https://github.com/HubSpot/img2html), or you can draw the image in CSS.
+
+Another simpler alternative is to embed an SVG image. Simply export your image to SVG format and open it in your favorite text editor to get the underlying code. Then simply copy/paste that into your email.
+
+
+### [Fancy hover/click state](http://www.zurb.com/playground/css-boxshadow-experiments)
+
+In email, we usually think of _clicks_ as a way to take people to the web. But on the web, there are plenty of other reasons to click. Perhaps you want to expand something, or maybe you just want something to make you smile.
+
+With some CSS, you can take advantage of the :hover or :visited state of elements on the page.
+
+
+# HTML5
+
+Incorporating some of the new stuff in HTML5 can let you take huge leaps toward techniques. Ros and the Campaign Monitor team have already done a great job diving into this area, and I thought I'd highlight a couple of my favorites:
+
+
+### Rich Media
+
+This has been something long sought-after. People have done some pretty sweet workarounds with animated gifs and fancy CSS. But we've said farewell to that world, meaning we can now say hello to the `<video>` and `<audio>` tags.
+
+[Video in email](http://www.campaignmonitor.com/uploads/testing/html5video-2011/index.html)
+
+[Audio in email](http://www.campaignmonitor.com/blog/post/3890/adding-audio-to-email-newsletters)
+
+The support for these is actually pretty startling. There are a number of fallbacks, and you can even drop all the way down to just showing an image. I'm certain there's more innovation to be made here.
+
+
+# Emulating Javascipt
+
+This is one of my favorite topic areas. We saw some of this in the fancy click/hover state examples, but now that we're in the future, there's more than one way to skin this bad ass cat.
+
+
+### Hover is the New Click
+
+Hover events on the web are actually triggered by click events in mobile. This means that you can use the CSS pseudo selector `:hover` to style things differently when clicked.
+
+
+### Sibling Selectors
+
+The `:hover` pseudo selector is great when you want to style the clicked element, but what if you want to style some other element?
+
+An oft overlooked detail in CSS is the sibling selector. With it, you can get stuff next to an element. Combine that with the `:hover` selector, and you now have click-control of adjacent elements.
+
+
+### Jumping the Shark with Checkboxes
+
+If that's not cool enough, you can style things beyond just the adjacent by using `<label>` and `<input>` tags.
+
+
+### SVG
+
+The above techniques are great for doing simple collapse/expand patterns, in-page navigation and the like. If you want to get more advanced, you can also try your hand at using SVG and SMIL animation.
+
+
+# Tracking
+
+As we're all aware, the hallmark of email tracking is the pixel. When someone opens an email, a pixel is fired.
+
+However, we can now use what we know about click events to fire more intelligent pixels to a server or app of our choice. Want to get someone to RSVP to an event? What about answering a simple survey?
+
+
+### Background images
+
+They're loaded when painted, not all at once. This means we can assign the background image to a hidden element, then show that element using one of the above click techniques.
+
+If you told this to any competent web developer, they'll probably yawn. But this is something that's never been possible before mobile and standards-compliant email clients.
+
+
+### SVG events api
+
+As I mentioned, SMIL gives SVG it's own non-Javascript API for doing events. You can do actions when someone clicks, mouses or scrolls. I'm still trying to figure out how to put those to good use, but they could provide much more intelligent analytics into how people are reading your email:
+
+- How far do they get into it? Halfway? All the way to the bottom?
+- Are they rereading it?
+- Are they zooming? Clicking? Double clicking?

@@ -1,0 +1,24 @@
+Creating a Framework for Innovation
+===================================
+
+
+These techniques are all things that I'm still trying to figure out, and I find them kinda fascinating. These may seem like hackery or voodoo, but it's really not. These things are already available to web app developers, I'm just finding it a home in email.
+
+As email designers, I think it's important for us to continually move innovation forward. The responsibility is ours to try new things and push the envelope with some basic rules of thumb:
+
+
+# If it Works in Chrome, it Works in Mobile
+
+Think like a frontend engineer.
+
+
+# MailGunner
+
+You should have the freedom to test anything at any time. If you see something really cool on the web or have a little html file on your desktop you want to play with, you should be able to do that.
+
+So I wrote a little command line tool called Mailgunner.
+
+
+# Email Privacy Tester
+
+This is a neat tool I stumbled upon that lets you test different tracking methods with the click of a button. There are some interesting things to be learnt from those techniques, and perhaps it'll inspire you.

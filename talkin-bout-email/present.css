@@ -1,0 +1,1058 @@
+  
+
+
+<!DOCTYPE html>
+<html>
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>mneuwirth/SVGTechTalk at master</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
+    <link rel="fluid-icon" href="https://git.hubteam.com/fluidicon.png" title="GitHub" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144.png" />
+    <link rel="logo" type="image/svg" href="http://github-media-downloads.s3.amazonaws.com/github-logo.svg" />
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+
+    
+    
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="NSan1pZqvi/iebeF+GndBmXOjAbxKxvFKNj09Dd14pQ=" name="csrf-token" />
+
+    <link href="https://git.hubteam.com/assets/github-0b194cdf0cf19d3ebbb064a57677dda2b93f0b30.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="https://git.hubteam.com/assets/github2-b22b80a08768f335054024cc832b5f74fee94721.css" media="screen" rel="stylesheet" type="text/css" />
+    
+
+
+        <script src="https://git.hubteam.com/assets/frameworks-995182d02a0effa06cdc51e33fe6e729014a3c91.js" type="text/javascript"></script>
+      <script src="https://git.hubteam.com/assets/github-0a92f2383c6e3e2d99fb0a732e5556a9324c7969.js" type="text/javascript"></script>
+      
+
+          <meta property="og:title" content="SVGTechTalk"/>
+    <meta property="og:type" content="githubog:gitrepository"/>
+    <meta property="og:url" content="https://github.com/mneuwirth/SVGTechTalk"/>
+    <meta property="og:image" content="https://secure.gravatar.com/avatar/c2f7afdb298d4e491c9c321e5e76e98e?s=420&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png"/>
+    <meta property="og:site_name" content="GitHub"/>
+    <meta property="og:description" content="Magic of SVG. Contribute to SVGTechTalk development by creating an account on GitHub."/>
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:site" content="@GitHub">
+    <meta property="twitter:title" content="mneuwirth/SVGTechTalk"/>
+
+    <meta name="description" content="Magic of SVG. Contribute to SVGTechTalk development by creating an account on GitHub." />
+
+  <link href="https://git.hubteam.com/mneuwirth/SVGTechTalk/commits/master.atom?login=jkim&token=09f323d3ba425acb9b2eb7ea90291b2c" rel="alternate" title="Recent Commits to SVGTechTalk:master" type="application/atom+xml" />
+
+  </head>
+
+
+  <body class="logged_in  macintosh vis-public env-production enterprise">
+    <div id="wrapper">
+
+      
+
+      
+
+      
+
+
+        <div class="header header-logged-in true">
+          <div class="container clearfix">
+
+            <a class="header-logo-blacktocat" href="https://git.hubteam.com/">
+  <span class="mega-icon mega-icon-blacktocat"></span>
+</a>
+
+            <div class="divider-vertical"></div>
+
+              <a href="/notifications" class="notification-indicator tooltipped downwards" title="You have no unread notifications">
+    <span class="mail-status all-read"></span>
+  </a>
+  <div class="divider-vertical"></div>
+
+
+              <div class="topsearch command-bar-activated ">
+  <form accept-charset="UTF-8" action="/search" class="command_bar_form" id="top_search_form" method="get">
+  <a href="/search/advanced" class="advanced-search-icon tooltipped downwards command-bar-search" id="advanced_search" title="Advanced search"><span class="mini-icon mini-icon-advanced-search "></span></a>
+
+  <input type="text" name="q" id="command-bar" placeholder="Search or type a command" tabindex="1" data-username="jkim" autocapitalize="off">
+
+  <span class="mini-icon help tooltipped downwards" title="Show command bar help">
+    <span class="mini-icon mini-icon-help"></span>
+  </span>
+
+  <input type="hidden" name="ref" value="commandbar">
+
+  <div class="divider-vertical"></div>
+</form>
+  <ul class="top-nav">
+      <li class="explore"><a href="https://git.hubteam.com/repositories">Explore</a></li>
+      <li><a href="https://git.hubteam.com/gist">Gist</a></li>
+    <li><a href="http://help.github.com">Help</a></li>
+  </ul>
+</div>
+
+
+            
+
+  
+    <ul id="user-links">
+      <li>
+        <a href="https://git.hubteam.com/jkim" class="name">
+          <img height="20" src="https://secure.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20" /> jkim
+        </a>
+      </li>
+      <li>
+        <a href="/new" id="new_repo" class="tooltipped downwards" title="Create a new repo">
+          <span class="mini-icon mini-icon-create"></span>
+        </a>
+      </li>
+      <li>
+        <a href="/settings/profile" id="account_settings"
+          class="tooltipped downwards"
+          title="Account settings ">
+          <span class="mini-icon mini-icon-account-settings"></span>
+        </a>
+      </li>
+      <li>
+          <a href="/logout" data-method="post" id="logout" class="tooltipped downwards" title="Sign out">
+            <span class="mini-icon mini-icon-logout"></span>
+          </a>
+      </li>
+    </ul>
+
+
+
+            
+          </div>
+        </div>
+
+
+      
+
+      
+
+
+            <div class="site hfeed" itemscope itemtype="http://schema.org/WebPage">
+      <div class="hentry">
+        
+        <div class="pagehead repohead instapaper_ignore readability-menu">
+          <div class="container">
+            <div class="title-actions-bar">
+              
+
+
+                  <ul class="pagehead-actions">
+
+          <li class="subscription">
+            <form accept-charset="UTF-8" action="/notifications/subscribe" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="NSan1pZqvi/iebeF+GndBmXOjAbxKxvFKNj09Dd14pQ=" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="865" />
+
+    <div class="select-menu js-menu-container js-select-menu">
+      <span class="minibutton select-menu-button js-menu-target">
+        <span class="js-select-button">
+          <span class="mini-icon mini-icon-watching"></span>
+          Watch
+        </span>
+      </span>
+
+      <div class="select-menu-modal-holder js-menu-content">
+        <div class="select-menu-modal">
+          <div class="select-menu-header">
+            <span class="select-menu-title">Notification status</span>
+            <span class="mini-icon mini-icon-remove-close js-menu-close"></span>
+          </div> <!-- /.select-menu-header -->
+
+          <div class="select-menu-list js-navigation-container js-select-menu-pane">
+
+            <div class="select-menu-item js-navigation-item js-navigation-target selected">
+              <span class="select-menu-checkmark mini-icon mini-icon-confirm"></span>
+              <div class="select-menu-item-text">
+                <input checked="checked" id="do_included" name="do" type="radio" value="included" />
+                <h4>Not watching</h4>
+                <span class="description">You only receive notifications for discussions in which you participate or are @mentioned.</span>
+                <span class="js-select-button-text hidden-select-button-text">
+                  <span class="mini-icon mini-icon-watching"></span>
+                  Watch
+                </span>
+              </div>
+            </div> <!-- /.select-menu-item -->
+
+            <div class="select-menu-item js-navigation-item js-navigation-target ">
+              <span class="select-menu-checkmark mini-icon mini-icon-confirm"></span>
+              <div class="select-menu-item-text">
+                <input id="do_subscribed" name="do" type="radio" value="subscribed" />
+                <h4>Watching</h4>
+                <span class="description">You receive notifications for all discussions in this repository.</span>
+                <span class="js-select-button-text hidden-select-button-text">
+                  <span class="mini-icon mini-icon-unwatch"></span>
+                  Unwatch
+                </span>
+              </div>
+            </div> <!-- /.select-menu-item -->
+
+            <div class="select-menu-item js-navigation-item js-navigation-target ">
+              <span class="select-menu-checkmark mini-icon mini-icon-confirm"></span>
+              <div class="select-menu-item-text">
+                <input id="do_ignore" name="do" type="radio" value="ignore" />
+                <h4>Ignoring</h4>
+                <span class="description">You do not receive any notifications for discussions in this repository.</span>
+                <span class="js-select-button-text hidden-select-button-text">
+                  <span class="mini-icon mini-icon-mute"></span>
+                  Stop ignoring
+                </span>
+              </div>
+            </div> <!-- /.select-menu-item -->
+
+          </div> <!-- /.select-menu-list -->
+
+        </div> <!-- /.select-menu-modal -->
+      </div> <!-- /.select-menu-modal-holder -->
+    </div> <!-- /.select-menu -->
+
+</form>
+          </li>
+
+          <li class="js-toggler-container js-social-container starring-container ">
+            <a href="/mneuwirth/SVGTechTalk/unstar" class="minibutton js-toggler-target starred" data-remote="true" data-method="post" rel="nofollow">
+              <span class="mini-icon mini-icon-star"></span>Unstar
+            </a><a href="/mneuwirth/SVGTechTalk/star" class="minibutton js-toggler-target unstarred" data-remote="true" data-method="post" rel="nofollow">
+              <span class="mini-icon mini-icon-star"></span>Star
+            </a><a class="social-count js-social-count" href="/mneuwirth/SVGTechTalk/stargazers">0</a>
+          </li>
+
+              <li>
+                <a href="/mneuwirth/SVGTechTalk/fork_select" class="minibutton js-toggler-target lighter" rel="facebox nofollow"><span class="mini-icon mini-icon-fork"></span>Fork</a><a href="/mneuwirth/SVGTechTalk/network" class="social-count">0</a>
+              </li>
+
+
+    </ul>
+
+              <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+                <span class="repo-label"><span>public</span></span>
+                <span class="mega-icon mega-icon-public-repo"></span>
+                <span class="author vcard">
+                  <a href="/mneuwirth" class="url fn" itemprop="url" rel="author">
+                  <span itemprop="title">mneuwirth</span>
+                  </a></span> /
+                <strong><a href="/mneuwirth/SVGTechTalk" class="js-current-repository">SVGTechTalk</a></strong>
+              </h1>
+            </div>
+
+            
+
+  <ul class="tabs">
+    <li><a href="/mneuwirth/SVGTechTalk" class="selected" highlight="repo_sourcerepo_downloadsrepo_commitsrepo_tagsrepo_branches">Code</a></li>
+    <li><a href="/mneuwirth/SVGTechTalk/network" highlight="repo_network">Network</a></li>
+    <li><a href="/mneuwirth/SVGTechTalk/pulls" highlight="repo_pulls">Pull Requests <span class='counter'>0</span></a></li>
+
+      <li><a href="/mneuwirth/SVGTechTalk/issues" highlight="repo_issues">Issues <span class='counter'>0</span></a></li>
+
+      <li><a href="/mneuwirth/SVGTechTalk/wiki" highlight="repo_wiki">Wiki</a></li>
+
+
+    <li><a href="/mneuwirth/SVGTechTalk/graphs" highlight="repo_graphsrepo_contributors">Graphs</a></li>
+
+
+  </ul>
+  
+<div class="tabnav">
+
+  <span class="tabnav-right">
+    <ul class="tabnav-tabs">
+          <li><a href="/mneuwirth/SVGTechTalk/tags" class="tabnav-tab" highlight="repo_tags">Tags <span class="counter blank">0</span></a></li>
+    </ul>
+    
+  <div class="tabnav-widget search repo-search ">
+    <form accept-charset="UTF-8" action="/mneuwirth/SVGTechTalk/search" method="get">
+      <span class="fieldwrap">
+        <input type="text" name="q" value=""
+          placeholder="Search source code&hellip;" tabindex="2" autocapitalize="off" /><button type="submit" class="minibutton empty-icon"><span class="mini-icon mini-icon-search-input"></span></button>
+      </span>
+      <input type="hidden" id="lang-value" name="l" value="" />
+      <input type="hidden" id="start-value" name="start" value="" />
+</form>  </div>
+
+  </span>
+
+  <div class="tabnav-widget scope">
+
+
+    <div class="select-menu js-menu-container js-select-menu js-branch-menu">
+      <a class="minibutton select-menu-button js-menu-target" data-hotkey="w" data-ref="master">
+        <span class="mini-icon mini-icon-branch"></span>
+        <i>branch:</i>
+        <span class="js-select-button">master</span>
+      </a>
+
+      <div class="select-menu-modal-holder js-menu-content js-navigation-container js-select-menu-pane">
+
+        <div class="select-menu-modal js-select-menu-pane">
+          <div class="select-menu-header">
+            <span class="select-menu-title">Switch branches/tags</span>
+            <span class="mini-icon mini-icon-remove-close js-menu-close"></span>
+          </div> <!-- /.select-menu-header -->
+
+          <div class="select-menu-filters">
+            <div class="select-menu-text-filter">
+              <input type="text" id="commitish-filter-field" class="js-select-menu-text-filter js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+            </div> <!-- /.select-menu-text-filter -->
+            <div class="select-menu-tabs">
+              <ul>
+                <li class="select-menu-tab">
+                  <a href="#" data-filter="branches" class="js-select-menu-tab selected">Branches</a>
+                </li>
+                <li class="select-menu-tab">
+                  <a href="#" data-filter="tags" class="js-select-menu-tab">Tags</a>
+                </li>
+              </ul>
+            </div><!-- /.select-menu-tabs -->
+          </div><!-- /.select-menu-filters -->
+
+          <div class="select-menu-list js-filter-tab js-filter-branches css-truncate" data-filterable-for="commitish-filter-field" data-filterable-type="substring">
+
+
+
+              <div class="select-menu-item js-navigation-item js-navigation-target selected">
+                <span class="select-menu-checkmark mini-icon mini-icon-confirm"></span>
+                <a href="/mneuwirth/SVGTechTalk/blame/master/present/present.css" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="master" rel="nofollow" title="master">master</a>
+              </div> <!-- /.select-menu-item -->
+
+              <div class="select-menu-no-results js-not-filterable">Nothing to show</div>
+          </div> <!-- /.select-menu-list -->
+
+
+          <div class="select-menu-list js-filter-tab js-filter-tags css-truncate" data-filterable-for="commitish-filter-field" data-filterable-type="substring" style="display:none;">
+
+
+            <div class="select-menu-no-results js-not-filterable">Nothing to show</div>
+
+          </div> <!-- /.select-menu-list -->
+
+        </div> <!-- /.select-menu-modal -->
+      </div> <!-- /.select-menu-modal-holder -->
+    </div> <!-- /.select-menu -->
+
+  </div> <!-- /.scope -->
+
+  <ul class="tabnav-tabs">
+    <li><a href="/mneuwirth/SVGTechTalk" class="selected tabnav-tab" highlight="repo_source">Files</a></li>
+    <li><a href="/mneuwirth/SVGTechTalk/commits/master" class="tabnav-tab" highlight="repo_commits">Commits</a></li>
+    <li><a href="/mneuwirth/SVGTechTalk/branches" class="tabnav-tab" highlight="repo_branches" rel="nofollow">Branches <span class="counter ">1</span></a></li>
+  </ul>
+
+</div>
+
+  
+  
+  
+
+
+            
+          </div>
+        </div><!-- /.repohead -->
+
+        <div id="js-repo-pjax-container" class="container context-loader-container" data-pjax-container>
+          
+
+
+
+<div class="breadcrumb">
+  <span class='bold'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/mneuwirth/SVGTechTalk" class="js-slide-to" data-direction="back" itemscope="url"><span itemprop="title">SVGTechTalk</span></a></span></span> / <span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/mneuwirth/SVGTechTalk/tree/master/present" class="js-slide-to" data-direction="back" itemscope="url"><span itemprop="title">present</span></a></span> / <strong class="final-path">present.css</strong> <span class="js-zeroclipboard zeroclipboard-button" data-clipboard-text="present/present.css" data-copied-hint="copied!" title="copy to clipboard"><span class="mini-icon mini-icon-clipboard"></span></span>
+</div>
+
+<div id="files">
+  <div class="file">
+    <div class="meta" style="border-bottom: none;">
+      <div class="info">
+        <span class="icon"><span class="mini-icon mini-icon-text-file"></span></span>
+        <span class="mode" title="File Mode">100644</span>
+          <span>42 lines (38 sloc)</span>
+        <span>0.868 kb</span>
+      </div>
+      <ul class="button-group actions">
+        <li><a href="/mneuwirth/SVGTechTalk/raw/master/present/present.css" class="minibutton btn-raw grouped-button bigger lighter" id="raw-url">Raw</a></li>
+        <li><a href="/mneuwirth/SVGTechTalk/blob/master/present/present.css" class="minibutton btn-raw grouped-button bigger lighter">Normal View</a></li>
+        <li><a href="/mneuwirth/SVGTechTalk/commits/master/present/present.css" class="minibutton btn-raw grouped-button bigger lighter" rel="nofollow">History</a></li>
+      </ul>
+    </div>
+
+    <div class="highlight data blame">
+      <table width="100%" cellpadding="0" cellspacing="0">
+
+            <tr class="section-first">
+            <td nowrap class="commitinfo">
+              <code>
+                <a href="/mneuwirth/SVGTechTalk/commit/e885478dfcf72919c5b4ac127fbc9ca1b3c4ff89">e885478d</a>
+                <a href="/mneuwirth/SVGTechTalk/blame/e885478dfcf72919c5b4ac127fbc9ca1b3c4ff89/present/present.css">&#187;</a>
+                <a href="/mneuwirth" rel="author">mneuwirth</a>
+              </code>
+              <br />
+              <span class="date">2013-02-19</span>
+              <span class="message" title="initial commit">initial commit </span>
+            </td>
+          <td nowrap class="line-number" id="LID1" rel="#L1">1</td>
+          <td nowrap class="line-data " id="LC1"><span class="nt">body</span> <span class="p">{</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID2" rel="#L2">2</td>
+          <td nowrap class="line-data " id="LC2">  <span class="k">position</span><span class="o">:</span> <span class="k">relative</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID3" rel="#L3">3</td>
+          <td nowrap class="line-data " id="LC3">  <span class="k">width</span><span class="o">:</span> <span class="m">1280px</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID4" rel="#L4">4</td>
+          <td nowrap class="line-data " id="LC4">  <span class="k">height</span><span class="o">:</span> <span class="m">800px</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID5" rel="#L5">5</td>
+          <td nowrap class="line-data " id="LC5">  <span class="k">margin</span><span class="o">:</span> <span class="k">auto</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID6" rel="#L6">6</td>
+          <td nowrap class="line-data " id="LC6">  <span class="k">overflow</span><span class="o">:</span> <span class="k">hidden</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID7" rel="#L7">7</td>
+          <td nowrap class="line-data " id="LC7"><span class="p">}</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID8" rel="#L8">8</td>
+          <td nowrap class="line-data " id="LC8"></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID9" rel="#L9">9</td>
+          <td nowrap class="line-data " id="LC9"><span class="nt">iframe</span> <span class="p">{</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID10" rel="#L10">10</td>
+          <td nowrap class="line-data " id="LC10">  <span class="k">border</span><span class="o">:</span> <span class="k">none</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID11" rel="#L11">11</td>
+          <td nowrap class="line-data " id="LC11">  <span class="k">position</span><span class="o">:</span> <span class="k">absolute</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID12" rel="#L12">12</td>
+          <td nowrap class="line-data " id="LC12">  <span class="k">width</span><span class="o">:</span> <span class="m">1280px</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID13" rel="#L13">13</td>
+          <td nowrap class="line-data " id="LC13">  <span class="k">height</span><span class="o">:</span> <span class="m">800px</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID14" rel="#L14">14</td>
+          <td nowrap class="line-data " id="LC14">  <span class="k">background</span><span class="o">:</span> <span class="m">#fff</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID15" rel="#L15">15</td>
+          <td nowrap class="line-data " id="LC15">  <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="n">transition</span><span class="o">-</span><span class="n">property</span><span class="o">:</span> <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="n">transform</span><span class="o">,</span> <span class="k">opacity</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID16" rel="#L16">16</td>
+          <td nowrap class="line-data " id="LC16">  <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="n">transition</span><span class="o">-</span><span class="n">duration</span><span class="o">:</span> <span class="m">500</span><span class="n">ms</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID17" rel="#L17">17</td>
+          <td nowrap class="line-data " id="LC17">  <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="n">transition</span><span class="o">-</span><span class="n">property</span><span class="o">:</span> <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="n">transform</span><span class="o">,</span> <span class="k">opacity</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID18" rel="#L18">18</td>
+          <td nowrap class="line-data " id="LC18">  <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="n">transition</span><span class="o">-</span><span class="n">duration</span><span class="o">:</span> <span class="m">500</span><span class="n">ms</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID19" rel="#L19">19</td>
+          <td nowrap class="line-data " id="LC19">  <span class="n">transition</span><span class="o">-</span><span class="n">property</span><span class="o">:</span> <span class="n">transform</span><span class="o">,</span> <span class="k">opacity</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID20" rel="#L20">20</td>
+          <td nowrap class="line-data " id="LC20">  <span class="n">transition</span><span class="o">-</span><span class="n">duration</span><span class="o">:</span> <span class="m">500</span><span class="n">ms</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID21" rel="#L21">21</td>
+          <td nowrap class="line-data " id="LC21"><span class="p">}</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID22" rel="#L22">22</td>
+          <td nowrap class="line-data " id="LC22"></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID23" rel="#L23">23</td>
+          <td nowrap class="line-data " id="LC23"><span class="nf">#previous</span> <span class="p">{</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID24" rel="#L24">24</td>
+          <td nowrap class="line-data " id="LC24">  <span class="k">opacity</span><span class="o">:</span> <span class="m">0</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID25" rel="#L25">25</td>
+          <td nowrap class="line-data " id="LC25">  <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">-1300px</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID26" rel="#L26">26</td>
+          <td nowrap class="line-data " id="LC26">  <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">-1300px</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID27" rel="#L27">27</td>
+          <td nowrap class="line-data " id="LC27">  <span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">-1300px</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID28" rel="#L28">28</td>
+          <td nowrap class="line-data " id="LC28"><span class="p">}</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID29" rel="#L29">29</td>
+          <td nowrap class="line-data " id="LC29"></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID30" rel="#L30">30</td>
+          <td nowrap class="line-data " id="LC30"><span class="nf">#current</span> <span class="p">{</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID31" rel="#L31">31</td>
+          <td nowrap class="line-data " id="LC31">  <span class="k">opacity</span><span class="o">:</span> <span class="m">1</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID32" rel="#L32">32</td>
+          <td nowrap class="line-data " id="LC32">  <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">0</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID33" rel="#L33">33</td>
+          <td nowrap class="line-data " id="LC33">  <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">0</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID34" rel="#L34">34</td>
+          <td nowrap class="line-data " id="LC34">  <span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">0</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID35" rel="#L35">35</td>
+          <td nowrap class="line-data " id="LC35"><span class="p">}</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID36" rel="#L36">36</td>
+          <td nowrap class="line-data " id="LC36"></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID37" rel="#L37">37</td>
+          <td nowrap class="line-data " id="LC37"><span class="nf">#next</span> <span class="p">{</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID38" rel="#L38">38</td>
+          <td nowrap class="line-data " id="LC38">  <span class="k">opacity</span><span class="o">:</span> <span class="m">0</span><span class="p">;</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID39" rel="#L39">39</td>
+          <td nowrap class="line-data " id="LC39">  <span class="o">-</span><span class="n">moz</span><span class="o">-</span><span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">1300px</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID40" rel="#L40">40</td>
+          <td nowrap class="line-data " id="LC40">  <span class="o">-</span><span class="n">webkit</span><span class="o">-</span><span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">1300px</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID41" rel="#L41">41</td>
+          <td nowrap class="line-data " id="LC41">  <span class="n">transform</span><span class="o">:</span> <span class="n">translateX</span><span class="p">(</span><span class="m">1300px</span><span class="p">);</span></td>
+        </tr>
+            <tr>
+            <td nowrap> </td>
+          <td nowrap class="line-number" id="LID42" rel="#L42">42</td>
+          <td nowrap class="line-data " id="LC42"><span class="p">}</span></td>
+        </tr>
+      </table>
+    </div>
+
+  </div>
+</div>
+
+
+        </div>
+      </div>
+      <div class="context-overlay"></div>
+    </div>
+
+      <div id="footer-push"></div><!-- hack for sticky footer -->
+    </div><!-- end of wrapper - hack for sticky footer -->
+
+      <!-- footer -->
+      <div id="footer">
+  <div class="container clearfix">
+
+
+    <p class="right">&copy; 2013 <span title="0.15037s from git-hubteam-com">GitHub</span> Inc. All rights reserved.</p>
+    <a class="left" href="https://git.hubteam.com/">
+      <span class="mega-icon mega-icon-invertocat"></span>
+    </a>
+    <ul id="legal">
+        <li><a href="/features">Feature Guide</a></li>
+        <li><a href="http://help.github.com">GitHub Help</a></li>
+        <li><a href="mailto:enterprise@github.com">Support</a></li>
+    </ul>
+
+  </div><!-- /.container -->
+
+</div><!-- /.#footer -->
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-fullscreen-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="js-fullscreen-contents" placeholder="" data-suggester="fullscreen_suggester"></textarea>
+          <div class="suggester-container">
+              <div class="suggester fullscreen-suggester js-navigation-container" id="fullscreen_suggester"
+                 data-url="/mneuwirth/SVGTechTalk/suggestions/commit/2d524f35d0adbd830721a2017ed4baee1acad72e">
+              </div>
+          </div>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped leftwards" title="Exit Zen Mode">
+      <span class="mega-icon mega-icon-normalscreen"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped leftwards"
+      title="Switch themes">
+      <span class="mini-icon mini-icon-brightness"></span>
+    </a>
+  </div>
+</div>
+
+
+    
+
+<div id="keyboard_shortcuts_pane" class="instapaper_ignore readability-extra" style="display:none">
+  <h2>Keyboard Shortcuts <small><a href="#" class="js-see-all-keyboard-shortcuts">(see all)</a></small></h2>
+
+  <div class="columns threecols">
+    <div class="column first">
+      <h3>Site wide shortcuts</h3>
+      <dl class="keyboard-mappings">
+        <dt>s</dt>
+        <dd>Focus command bar</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>?</dt>
+        <dd>Bring up this help dialog</dd>
+      </dl>
+    </div><!-- /.column.first -->
+
+    <div class="column middle" style='display:none'>
+      <h3>Commit list</h3>
+      <dl class="keyboard-mappings">
+        <dt>j</dt>
+        <dd>Move selection down</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>k</dt>
+        <dd>Move selection up</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>c <em>or</em> o <em>or</em> enter</dt>
+        <dd>Open commit</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>y</dt>
+        <dd>Expand URL to its canonical form</dd>
+      </dl>
+    </div><!-- /.column.first -->
+
+    <div class="column last js-hidden-pane" style='display:none'>
+      <h3>Pull request list</h3>
+      <dl class="keyboard-mappings">
+        <dt>j</dt>
+        <dd>Move selection down</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>k</dt>
+        <dd>Move selection up</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt>o <em>or</em> enter</dt>
+        <dd>Open issue</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> enter</dt>
+        <dd>Submit comment</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> shift p</dt>
+        <dd>Preview comment</dd>
+      </dl>
+      <dl class="keyboard-mappings">
+        <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> shift l</dt>
+        <dd>Go fullscreen</dd>
+      </dl>
+    </div><!-- /.columns.last -->
+
+  </div><!-- /.columns.equacols -->
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+
+    <h3>Issues</h3>
+
+    <div class="columns threecols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt>j</dt>
+          <dd>Move selection down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>k</dt>
+          <dd>Move selection up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>x</dt>
+          <dd>Toggle selection</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o <em>or</em> enter</dt>
+          <dd>Open issue</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> enter</dt>
+          <dd>Submit comment</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> shift p</dt>
+          <dd>Preview comment</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> shift l</dt>
+          <dd>Go fullscreen</dd>
+        </dl>
+      </div><!-- /.column.first -->
+      <div class="column last">
+        <dl class="keyboard-mappings">
+          <dt>c</dt>
+          <dd>Create issue</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>l</dt>
+          <dd>Create label</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>i</dt>
+          <dd>Back to inbox</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>u</dt>
+          <dd>Back to issues</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>/</dt>
+          <dd>Focus issues search</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+
+    <h3>Issues Dashboard</h3>
+
+    <div class="columns threecols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt>j</dt>
+          <dd>Move selection down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>k</dt>
+          <dd>Move selection up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o <em>or</em> enter</dt>
+          <dd>Open issue</dd>
+        </dl>
+      </div><!-- /.column.first -->
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+
+    <h3>Network Graph</h3>
+    <div class="columns equacols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">←</span> <em>or</em> h</dt>
+          <dd>Scroll left</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">→</span> <em>or</em> l</dt>
+          <dd>Scroll right</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">↑</span> <em>or</em> k</dt>
+          <dd>Scroll up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt><span class="badmono">↓</span> <em>or</em> j</dt>
+          <dd>Scroll down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>t</dt>
+          <dd>Toggle visibility of head labels</dd>
+        </dl>
+      </div><!-- /.column.first -->
+      <div class="column last">
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">←</span> <em>or</em> shift h</dt>
+          <dd>Scroll all the way left</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">→</span> <em>or</em> shift l</dt>
+          <dd>Scroll all the way right</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">↑</span> <em>or</em> shift k</dt>
+          <dd>Scroll all the way up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift <span class="badmono">↓</span> <em>or</em> shift j</dt>
+          <dd>Scroll all the way down</dd>
+        </dl>
+      </div><!-- /.column.last -->
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" >
+    <div class="rule"></div>
+    <div class="columns threecols">
+      <div class="column first js-hidden-pane" >
+        <h3>Source Code Browsing</h3>
+        <dl class="keyboard-mappings">
+          <dt>t</dt>
+          <dd>Activates the file finder</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>l</dt>
+          <dd>Jump to line</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>w</dt>
+          <dd>Switch branch/tag</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>y</dt>
+          <dd>Expand URL to its canonical form</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>i</dt>
+          <dd>Show/hide all inline notes</dd>
+      </div>
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+    <div class="columns threecols">
+      <div class="column first">
+        <h3>Browsing Commits</h3>
+        <dl class="keyboard-mappings">
+          <dt><span class="platform-mac">⌘</span><span class="platform-other">ctrl</span> <em>+</em> enter</dt>
+          <dd>Submit comment</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>escape</dt>
+          <dd>Close form</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>p</dt>
+          <dd>Parent commit</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o</dt>
+          <dd>Other parent commit</dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+
+  <div class="js-hidden-pane" style='display:none'>
+    <div class="rule"></div>
+    <h3>Notifications</h3>
+
+    <div class="columns threecols">
+      <div class="column first">
+        <dl class="keyboard-mappings">
+          <dt>j</dt>
+          <dd>Move selection down</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>k</dt>
+          <dd>Move selection up</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>o <em>or</em> enter</dt>
+          <dd>Open notification</dd>
+        </dl>
+      </div><!-- /.column.first -->
+
+      <div class="column second">
+        <dl class="keyboard-mappings">
+          <dt>e <em>or</em> shift i <em>or</em> y</dt>
+          <dd>Mark as read</dd>
+        </dl>
+        <dl class="keyboard-mappings">
+          <dt>shift m</dt>
+          <dd>Mute thread</dd>
+        </dl>
+      </div><!-- /.column.first -->
+    </div>
+  </div>
+
+</div>
+
+    <div id="markdown-help" class="instapaper_ignore readability-extra">
+  <h2>Markdown Cheat Sheet</h2>
+
+  <div class="cheatsheet-content">
+
+  <div class="mod">
+    <div class="col">
+      <h3>Format Text</h3>
+      <p>Headers</p>
+      <pre>
+# This is an &lt;h1&gt; tag
+## This is an &lt;h2&gt; tag
+###### This is an &lt;h6&gt; tag</pre>
+     <p>Text styles</p>
+     <pre>
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+
+*You **can** combine them*
+</pre>
+    </div>
+    <div class="col">
+      <h3>Lists</h3>
+      <p>Unordered</p>
+      <pre>
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b</pre>
+     <p>Ordered</p>
+     <pre>
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b</pre>
+    </div>
+    <div class="col">
+      <h3>Miscellaneous</h3>
+      <p>Images</p>
+      <pre>
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+</pre>
+     <p>Links</p>
+     <pre>
+http://github.com - automatic!
+[GitHub](http://github.com)</pre>
+<p>Blockquotes</p>
+     <pre>
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+</pre>
+    </div>
+  </div>
+  <div class="rule"></div>
+
+  <h3>Code Examples in Markdown</h3>
+  <div class="col">
+      <p>Syntax highlighting with <a href="http://github.github.com/github-flavored-markdown/" title="GitHub Flavored Markdown" target="_blank">GFM</a></p>
+      <pre>
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```</pre>
+    </div>
+    <div class="col">
+      <p>Or, indent your code 4 spaces</p>
+      <pre>
+Here is a Python code example
+without syntax highlighting:
+
+    def foo:
+      if not bar:
+        return true</pre>
+    </div>
+    <div class="col">
+      <p>Inline code for comments</p>
+      <pre>
+I think you should use an
+`&lt;addr&gt;` element here instead.</pre>
+    </div>
+  </div>
+
+  </div>
+</div>
+
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="mini-icon mini-icon-exclamation"></span>
+      Something went wrong with that request. Please try again.
+      <a href="#" class="mini-icon mini-icon-remove-close ajax-error-dismiss"></a>
+    </div>
+
+    
+    
+    <span id='server_response_time' data-time='0.15292' data-host='git-hubteam-com'></span>
+    
+  </body>
+</html>
+

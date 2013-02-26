@@ -1,0 +1,25 @@
+Pushing the Limits of Mobile
+============================
+
+
+The rise of mobile has brought the modern web with it. Now HTML5, CSS3 and OS-specific APIs are available to us to as powerful tools for design and marketing. We'll take a look at some techniques of varying complexity that were previously impossible before mobile.
+
+
+# What am I Talking About?
+
+As email designers, we've been trained to think of email as an archaic, backward world. There are so many nuances, gotchas and straight-up WTFs!? that a good designer is someone who understands how to code for the Microsoft Word rendering engine. A good designer knows more about `<table>` than most people know about HTML.
+
+And that's impressive.
+
+But I'm not here to talk about that.
+
+Today, we're going to throw all of that away and pretend it doesn't matter. We're going to instead design emails for the future.
+
+And while we're going to go over some future-forward techniques, the thing I most want to embue is a framework--a framework for thinking in a new way about email.
+
+
+# An Important Caveat
+
+The stuff I'm about to teach you is probably not something you should implement at work without careful consideration. We're about to say _goodbye_ to Outlook, Lotus Notes and Gmail. Yes, even Gmail.
+
+
