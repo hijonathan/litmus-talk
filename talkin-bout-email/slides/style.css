@@ -4,39 +4,67 @@
 }
 
 /* line 5, style.sass */
-h1 {
-  font-size: 60px;
+body {
+  font-size: 100%;
 }
 
 /* line 8, style.sass */
+h1 {
+  font-size: 4em;
+}
+
+/* line 11, style.sass */
+blockquote {
+  border-left: 0.3em solid #2ba6cb;
+  font-size: 2em;
+  padding: 0 0 0 1em;
+  font-style: italic;
+  font-family: Georgia;
+  text-align: left;
+}
+/* line 19, style.sass */
+blockquote + .attrib {
+  font-size: 2em;
+  text-align: left;
+  font-weight: bold;
+  margin-top: 1.2em;
+}
+
+/* line 26, style.sass */
+.slide ul li {
+  list-style: none;
+}
+
+/* line 29, style.sass */
+.gist-file .highlight {
+  background-color: transparent;
+}
+
+/* line 32, style.sass */
 .step {
   min-width: 600px;
 }
 
-/* line 11, style.sass */
+/* line 35, style.sass */
 .slide {
   padding: 20px;
   text-align: center;
 }
-/* line 15, style.sass */
+/* line 39, style.sass */
 .slide.accented {
   background-color: #2ba6cb;
 }
-/* line 18, style.sass */
+/* line 42, style.sass */
 .slide.accented * {
   color: white;
 }
-/* line 21, style.sass */
-.slide.jumbo {
-  width: 800px;
-}
-/* line 24, style.sass */
-.slide.numbered-set {
+/* line 45, style.sass */
+.slide.jumbo, .slide.numbered-set {
   width: 700px;
 }
-/* line 27, style.sass */
+/* line 51, style.sass */
 .slide.numbered-set .count {
-  font-size: 140px;
+  font-size: 10em;
   background-color: #2ba6cb;
   display: inline-block;
   padding: 0.1em;
@@ -46,27 +74,58 @@ h1 {
   float: left;
   margin-right: 0.2em;
 }
-/* line 38, style.sass */
+/* line 62, style.sass */
 .slide.numbered-set h1 {
   text-align: left;
   margin-top: -12px;
 }
+/* line 66, style.sass */
+.slide.iframe {
+  width: 700px;
+}
+/* line 69, style.sass */
+.slide.iframe iframe {
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  border: none;
+  box-shadow: 0px 0px 12px #cccccc;
+}
+/* line 76, style.sass */
+.slide table {
+  margin: 0 auto;
+}
+/* line 79, style.sass */
+.slide table td {
+  vertical-align: middle;
+}
+/* line 82, style.sass */
+.slide table td:first-child {
+  text-align: right;
+}
 
-/* line 43, style.sass */
+/* line 86, style.sass */
+.tweet {
+  border: 1px solid #cccccc;
+  border-radius: 6px;
+  padding: 10px 0;
+}
+
+/* line 92, style.sass */
 #big-picture {
   width: 1000px;
 }
-/* line 46, style.sass */
+/* line 95, style.sass */
 #big-picture h1, #big-picture h2 {
   margin: 0;
 }
-/* line 49, style.sass */
+/* line 98, style.sass */
 #big-picture h1 {
-  font-size: 80px;
+  font-size: 6em;
   border-bottom: 5px solid #2ba6cb;
   display: inline;
 }
-/* line 54, style.sass */
+/* line 103, style.sass */
 #big-picture h2 {
   color: #666666;
 }

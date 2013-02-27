@@ -37,16 +37,17 @@ html(lang="en")
             //- Talk about the concerns, support issues
 
             .step.slide(data-x='3000', data-y='0', data-z='0')
-                h1 An Important Side Note
+                h1 This is NSFW*
+                p * Not safe for Windows (Outlook)
 
-            .step.slide(data-x='9000', data-y='0', data-z='4000', data-scale='3')
-                h1 This stuff is still experimental
+            //- .step.slide(data-x='9000', data-y='0', data-z='4000', data-scale='3')
+            //-     h1 This stuff is still experimental
 
-            .step.slide(data-x='9000', data-y='1600', data-z='4000', data-scale='1')
-                h1
-                    em.accent Au revoir!
-                    br
-                    | Antiquated email clients
+            //- .step.slide(data-x='9000', data-y='1600', data-z='4000', data-scale='1')
+            //-     h1
+            //-         em.accent Au revoir!
+            //-         br
+            //-         | Antiquated email clients
 
 
             .step.slide.numbered-set(data-x='0', data-y='1000')
@@ -56,14 +57,22 @@ html(lang="en")
                     br
                     | Stand Out
 
-            .step.slide(data-x='0', data-y='2000')
-                img(src='tweet.png')
+            .step.slide.jumbo(data-x='0', data-y='2000')
+                h1 A remarkable email
+                a(href='https://twitter.com/hunterwalk/status/305877521583439872')
+                   img.tweet(src='tweet.png')
 
-            .step.slide(data-x='0', data-y='3000')
-                img(src='tweet.png')
+            .step.slide.iframe(data-x='0', data-y='3000')
+                h1 Subtle animations
+                iframe(src='../examples/animation.html')
+                p
+                    a.button.secondary.small(href='../examples/animation.html') Full email
 
-            .step.slide(data-x='0', data-y='4000')
-                img(src='tweet.png')
+            .step.slide.iframe(data-x='0', data-y='4000')
+                h1 Richer images
+                iframe(src='../examples/drawing.html')
+                p
+                    a.button.secondary.small(href='../examples/drawing.html') Full email
 
 
             .step.slide.numbered-set(data-x='1500', data-y='1000')
@@ -74,13 +83,22 @@ html(lang="en")
                     | Engage
 
             .step.slide(data-x='1500', data-y='2000')
-                img(src='tweet.png')
+                blockquote
+                    | "I love getting unstyled, impersonal marketing emails that I can share with all my friends and colleagues."
 
-            .step.slide(data-x='1500', data-y='3000')
-                img(src='tweet.png')
+                .attrib &mdash; No one, ever
 
-            .step.slide(data-x='1500', data-y='4000')
-                img(src='tweet.png')
+            .step.slide.iframe(data-x='1500', data-y='3000')
+                h1 Full video in email
+                iframe(src='../examples/video.html')
+                p
+                    a.button.secondary.small(href='../examples/video.html') Full email
+
+            .step.slide.iframe(data-x='1500', data-y='4000')
+                h1 Read more inline
+                iframe(src='../examples/readmore.html')
+                p
+                    a.button.secondary.small(href='../examples/readmore.html') Full email
 
 
             .step.slide.numbered-set(data-x='3000', data-y='1000')
@@ -91,13 +109,32 @@ html(lang="en")
                     | Convert
 
             .step.slide(data-x='3000', data-y='2000')
-                img(src='tweet.png')
+                h1 Conversion hurdles
+                table
+                    tr
+                        td
+                            a.button.alert Click to Read More
+                        td goes to the web
 
-            .step.slide(data-x='3000', data-y='3000')
-                img(src='tweet.png')
+                    tr
+                        td
+                            a.button.success Purchase this Item
+                        td prompts a log in screen
+
+                    tr
+                        td
+                            a.button Confirm Address
+                        td shows a success page
+
+            .step.slide.iframe(data-x='3000', data-y='3000')
+                h1 Follow immediately
+                iframe(src='../examples/twitter.html')
+                p
+                    a.button.secondary.small(href='../examples/twitter.html') Full email
 
             .step.slide(data-x='3000', data-y='4000')
-                img(src='tweet.png')
+                script(src="https://gist.github.com/hijonathan/5046884.js")
+
 
 
             .step.fake(data-x='1500', data-y='-1500', data-z='6000', data-scale='6')
@@ -113,6 +150,19 @@ html(lang="en")
 
             .step.slide(data-x='3000', data-y='5000')
                 h1 And just have fun with it :]
+
+            #resources.step.slide(data-x='1500', data-y='6000')
+                h1 Resources
+                ul
+                    li Dan Eden's
+                        a(href='http://daneden.me/animate/')  animate.css library
+                        |  for easy animations,
+                    li
+                        a(href='https://github.com/hijonathan/mailgunner') Mailgunner
+                        |  for simple one-off testing,
+                    li
+                        | and engineering
+                        a(href='https://twitter.com/paul_irish')  tweets by Paul Irish
 
             .step.slide(data-x='1500', data-y='6500')
                 h1.accent Questions?
