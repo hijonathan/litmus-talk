@@ -3,7 +3,7 @@ html(lang="en")
     head
         title Pushing the Limits of Mobile
         meta(name="viewport", content="width=1024")
-        link(href='../foundation/stylesheets/foundation.min.css', rel='stylesheet')
+        link(href='./lib/foundation/stylesheets/foundation.min.css', rel='stylesheet')
         link(href='style.css', rel='stylesheet')
 
     body.impress-not-supported
@@ -64,15 +64,15 @@ html(lang="en")
 
             .step.slide.iframe(data-x='0', data-y='3000')
                 h1 Subtle animations
-                iframe(src='../examples/animation.html')
+                iframe(src='./examples/animation.html')
                 p
-                    a.button.secondary.small(href='../examples/animation.html') Full email
+                    a.button.secondary.small(href='./examples/animation.html') Full email
 
             .step.slide.iframe(data-x='0', data-y='4000')
                 h1 Richer images
-                iframe(src='../examples/drawing.html')
+                iframe(src='./examples/drawing.html')
                 p
-                    a.button.secondary.small(href='../examples/drawing.html') Full email
+                    a.button.secondary.small(href='./examples/drawing.html') Full email
 
 
             #engage.step.slide.numbered-set(data-x='1500', data-y='1000')
@@ -90,15 +90,15 @@ html(lang="en")
 
             .step.slide.iframe(data-x='1500', data-y='3000')
                 h1 Full video in email
-                iframe(src='../examples/video.html')
+                iframe(src='./examples/video.html')
                 p
-                    a.button.secondary.small(href='../examples/video.html') Full email
+                    a.button.secondary.small(href='./examples/video.html') Full email
 
             .step.slide.iframe(data-x='1500', data-y='4000')
                 h1 Read more inline
-                iframe(src='../examples/readmore.html')
+                iframe(src='./examples/readmore.html')
                 p
-                    a.button.secondary.small(href='../examples/readmore.html') Full email
+                    a.button.secondary.small(href='./examples/readmore.html') Full email
 
 
             #convert.step.slide.numbered-set(data-x='3000', data-y='1000')
@@ -128,9 +128,9 @@ html(lang="en")
 
             .step.slide.iframe(data-x='3000', data-y='3000')
                 h1 Follow immediately
-                iframe(src='../examples/twitter.html')
+                iframe(src='./examples/twitter.html')
                 p
-                    a.button.secondary.small(href='../examples/twitter.html') Full email
+                    a.button.secondary.small(href='./examples/twitter.html') Full email
 
             .step.slide(data-x='3000', data-y='4000')
                 script(src="https://gist.github.com/hijonathan/5046884.js")
@@ -170,7 +170,7 @@ html(lang="en")
             #fin.step.slide.accented(data-x='6000', data-y='0', data-z='3000', data-scale='4', data-rotate='90')
                 h1 Thank you
 
-        script(type='text/javascript', src='../impress/impress.js')
+        script(type='text/javascript', src='./lib/impress/impress.js')
         script(type='text/javascript')
             impress().init();
 
