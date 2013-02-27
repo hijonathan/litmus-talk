@@ -1,0 +1,459 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;" />
+    <title>Email Newsletter</title>
+	<style type="text/css">
+	body {
+		margin:0;
+		padding:0;
+		background: #f6f6f6;
+		font: normal 10px/1.1em arial;
+		background: #f6f6f6;
+	}
+
+	.body {
+		width:170px;
+		margin: 0 auto;
+		position:relative;
+	}
+	.head {
+		position:relative;
+		z-index:1;
+		height: 350px;
+		background:#fed61e;
+		border:5px solid #000;
+		-webkit-border-radius: 80px;
+		-moz-border-radius: 80px;
+		border-radius: 80px;
+		box-shadow: inset -5px -5px 0 2px rgba(0,0,0,.2),inset 5px 5px 0 2px rgba(255,250,196,.3);
+	}
+
+	/* hair */
+	.hair, .hair > div {
+		position: absolute;
+		top:-12px;
+		left:0;
+		right:0;
+		margin: 0 auto;
+		z-index:0;
+		width: 45px;
+		height:40px;
+		border:1px solid #000;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+	}
+	.hair > div {margin-top:17px;}
+
+	/* eyes */
+	.eyebrows {
+		position: absolute;
+		top:112px;
+		left:-10px;
+		right:-10px;
+		z-index:1;
+	}
+	.eyebrow {
+		position:relative;
+		z-index:2;
+		float:left;
+		height: 36px;
+		width: 40px;
+		background:#fed61e;
+		border-left:2px solid #000;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		box-shadow: inset 5px 5px 0 2px rgba(255,250,196,.3);
+	}
+	.eyebrow:last-child {
+		float:right;
+		border-left:0;
+		border-right:2px solid #000;
+		box-shadow: inset -5px -5px 0 2px rgba(0,0,0,.2);
+	}
+	.eyes {
+		position: absolute;
+		top:115px;
+		left:-10px;
+		right:-10px;
+	}
+	.eye {
+		position:relative;
+		z-index:2;
+		float:left;
+		height: 80px;
+		width: 80px;
+		background: #fff;
+		border:2px solid #000;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		/* animation */
+		-webkit-animation: eyes 4s infinite step-start 0s;
+		-moz-animation: eyes 4s infinite step-start 0s;
+		-o-animation: eyes 4s infinite step-start 0s;
+		-ms-animation: eyes 4s infinite step-start 0s;
+		animation: eyes 4s infinite step-start 0s;
+	}
+	.eye:last-child {
+		float:right;
+		box-shadow: inset -5px -5px 0 2px rgba(0,0,0,.05);
+	}
+	.iris {
+		content: "";
+		display: block;
+		width:14px;
+		height:14px;
+		background:#000;
+		position:absolute;
+		z-index:3;
+		top:50%;
+		left:2px;
+		right:0;
+		margin: -7px auto 0;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		/* animation */
+		-webkit-animation: iris 4s infinite step-start 0s;
+		-moz-animation: iris 4s infinite step-start 0s;
+		-o-animation: iris 4s infinite step-start 0s;
+		-ms-animation: iris 4s infinite step-start 0s;
+		animation: iris 4s infinite step-start 0s;
+	}
+
+	/* ears */
+	.ears {
+		position: absolute;
+		top:170px;
+		left:-15px;
+		right:-15px;
+	}
+	.ear {
+		position:relative;
+		z-index:0;
+		float:left;
+		height: 40px;
+		width: 40px;
+		background:#fed61e;
+		border:5px solid #000;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+	}
+	.ear:last-child {
+		background:#ebce44;
+		float:right;
+		box-shadow: inset -5px -5px 0 2px rgba(0,0,0,.05);
+	}
+
+	/* nose */
+	.nose {
+		position:absolute;
+		z-index:3;
+		top: 175px;
+		left:0;
+		right: 0;
+		margin: 0 auto;
+		height: 38px;
+		width: 46px;
+		background:#fed61e;
+		border:2px solid #000;
+		border-top:none;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		box-shadow: inset -3px -3px 0 2px rgba(0,0,0,.2), 1px 3px 0 2px rgba(0,0,0,.1);
+	}
+
+	/* beard */
+	.beard {
+		position:absolute;
+		z-index:2;
+		top: 200px;
+		left: -15px;
+		right: -10px;
+		height: 140px;
+		width: 180px;
+		background:#d3a64b;
+		border:2px solid #000;
+		border-width: 2px 5px;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		box-shadow: inset -5px -5px 0 2px rgba(0,0,0,.2), inset 5px 5px 0 2px rgba(255,250,196,.1);
+	}
+	.mouth {
+		position:absolute;
+		z-index:2;
+		top: 40px;
+		left:0;
+		right:0;
+		height: 55px;
+		width: 130px;
+		margin:0 auto;
+		border-bottom:5px solid #000;
+		-webkit-border-radius: 80%;
+		-moz-border-radius: 80%;
+		border-radius: 80%;
+	}
+	.mouth:before, .mouth:after {
+		content: "";
+		display: block;
+		position:absolute;
+		z-index:3;
+		top: 30px;
+		left:-3px;
+		height: 20px;
+		width: 20px;
+		border-left:3px solid #000;
+		-webkit-border-radius: 40%;
+		-moz-border-radius: 40%;
+		border-radius: 40%;
+		-webkit-transform: rotate(45deg);
+		-moz-transform: rotate(45deg);
+		transform: rotate(45deg);
+	}
+	.mouth:after {
+		left:auto;
+		right:-3px;
+		border-left:none;
+		border-right:3px solid #000;
+		-webkit-transform: rotate(-45deg);
+		-moz-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+	}
+	.chin {
+		position:absolute;
+		z-index:2;
+		top: 105px;
+		left:0;
+		right:0;
+		height: 8px;
+		width: 30px;
+		margin:0 auto;
+		border-bottom:2px solid #000;
+		-webkit-border-radius: 80%;
+		-moz-border-radius: 80%;
+		border-radius: 80%;
+	}
+
+	/* animation */
+	/* eyes */
+	@-webkit-keyframes eyes {
+	   0%, 100% {
+		background:#fed61e;
+		border-top: none;
+		-webkit-border-radius: 40% 40% 50% 50%;
+		-moz-border-radius: 40% 40% 50% 50%;
+		border-radius: 40% 40% 50% 50%;
+	   }
+	   15%, 95% {
+		background:#fff;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		border:2px solid #000;
+	   }
+	}
+	@-moz-keyframes eyes {
+	   0%, 100% {
+		background:#fed61e;
+		border-top: none;
+		-webkit-border-radius: 40% 40% 50% 50%;
+		-moz-border-radius: 40% 40% 50% 50%;
+		border-radius: 40% 40% 50% 50%;
+	   }
+	   15%, 95% {
+		background:#fff;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		border:2px solid #000;
+	   }
+	}
+	@-o-keyframes eyes {
+	   0%, 100% {
+		background:#fed61e;
+		border-top: none;
+		-webkit-border-radius: 40% 40% 50% 50%;
+		-moz-border-radius: 40% 40% 50% 50%;
+		border-radius: 40% 40% 50% 50%;
+	   }
+	   15%, 95% {
+		background:#fff;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		border:2px solid #000;
+	   }
+	}
+	@-ms-keyframes eyes {
+	   0%, 100% {
+		background:#fed61e;
+		border-top: none;
+		-webkit-border-radius: 40% 40% 50% 50%;
+		-moz-border-radius: 40% 40% 50% 50%;
+		border-radius: 40% 40% 50% 50%;
+	   }
+	   15%, 95% {
+		background:#fff;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		border:2px solid #000;
+	   }
+	}
+	@keyframes eyes {
+	   0%, 100% {
+		background:#fed61e;
+		border-top: none;
+		-webkit-border-radius: 40% 40% 50% 50%;
+		-moz-border-radius: 40% 40% 50% 50%;
+		border-radius: 40% 40% 50% 50%;
+	   }
+	   15%, 95% {
+		background:#fff;
+		-webkit-border-radius: 50%;
+		-moz-border-radius: 50%;
+		border-radius: 50%;
+		border:2px solid #000;
+	   }
+	}
+
+	/* iris */
+	@-webkit-keyframes iris {
+		0%, 100% {
+			opacity: 0;
+		}
+		15%, 95% {
+			opacity: 1;
+		}
+	}
+	@-moz-keyframes iris {
+		0%, 100% {
+			opacity: 0;
+		}
+		15%, 95% {
+			opacity: 1;
+		}
+	}
+	@-o-keyframes iris {
+		0%, 100% {
+			opacity: 0;
+		}
+		15%, 95% {
+			opacity: 1;
+		}
+	}
+	@-ms-keyframes iris {
+		0%, 100% {
+			opacity: 0;
+		}
+		15%, 95% {
+			opacity: 1;
+		}
+	}
+	@keyframes iris {
+		0%, 100% {
+			opacity: 0;
+		}
+		15%, 95% {
+			opacity: 1;
+		}
+	}
+	</style>
+</head>
+  <body style="margin: 0; padding: 0; background: #f7f6f4;">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tbody><tr>
+            <td align="center" bgcolor="#f7f6f4" style="margin: 0;">
+                <table cellpadding="0" cellspacing="0" border="0" align="center" width="600" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; color: #6f6f6f;">
+            <tbody><tr>
+              <td class="">
+                <p style="font-size: 12px; color: #f7f6f4">&nbsp;</p>
+              </td>
+            </tr>
+            <tr>
+              <td height="100" class=""><img style="display: block; border: 0px;" title="Afternoon Video Snack" src="http://pages.wistia.com/l/9972/2012-07-24/67lh2/9972/54441/video_snack_header.png" alt="Afternoon Video Snack" width="600" height="100"></td>
+            </tr>
+
+                  <tr>
+                    <td bgcolor="ffffff" align="center" class=""><p style="padding-top: 5px; padding-bottom: 5px; padding-right: 70px; padding-left: 70px; font-weight: 200; font-size: 24px; color: #434343; line-height: 33px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"><span style="font-size: 24px;"><strong>Introducing the Wistia Learning Center!</strong></span><br><span style="font-size: 16px;">Videos about video to&nbsp;help you market with video.</span></p></td>
+                  </tr>
+            <tr>
+              <td width="600" bgcolor="ffffff" style="padding-left:40px; padding-right:40px;" class="">
+				<div class="body">
+					<div class="head">
+						<div class="eyebrows">
+							<div class="eyebrow"></div>
+							<div class="eyebrow"></div>
+						</div>
+						<div class="eyes">
+							<div class="eye"><div class="iris"></div></div>
+							<div class="eye"><div class="iris"></div></div>
+						</div>
+						<div class="nose"></div>
+						<div class="beard">
+							<div class="mouth"></div>
+							<div class="chin"></div>
+						</div>
+					</div>
+					<div class="ears">
+						<div class="ear"></div>
+						<div class="ear"></div>
+					</div>
+					<div class="hair"><div></div></div>
+				</div>
+				<p style="font-size: 14px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #646464; margin-top: 40px; line-height: 20px; text-align: center;"><span style="font-size: 18px;"><a href="http://pages.wistia.com/e/9972/og-the-wistia-learning-center-/bxmxf/182992932" target="_self">Read more on the Wistia blog.</a></span></p>
+				<p><br>This is a Video Snack Email.<br><a href="http://pages.wistia.com/e/9972/video-updates-list/bxmxr/182992932">Click here to opt out</a></p>
+			  </td>
+            </tr>
+                  <tr>
+                    <td bgcolor="#ffffff" style="padding: 20px 0; border-top: 3px dotted #f7f6f4; background: #ffffff;">
+                    <table width="100" cellpadding="0" cellspacing="0" border="0" align="center">
+                    <tbody><tr>
+                        <td width="40" valign="top" align="left" class=""><a href="http://pages.wistia.com/e/9972/wistia/bxmy3/182992932"><img src="http://storage.pardot.com/9972/46581/facebook_btn.png" alt="Facebook" width="40" height="40" border="0" style="margin-left: 5px; margin-right: 5px;"></a></td>
+                        <td width="40" valign="top" align="left" class=""><a href="http://pages.wistia.com/e/9972/wistia/bxmyf/182992932"><img src="http://storage.pardot.com/9972/46611/twitter_btn.png" alt="Twitter" width="40" height="40" border="0" style="margin-left: 5px; margin-right: 5px;"></a></td>
+                    </tr>
+                </tbody></table>
+              </td>
+                  </tr>
+                  <tr>
+                    <td height="20" class="">
+                      <img src="http://storage.pardot.com/9972/46571/bottom.png" alt="bottom" width="600" height="20" border="0">
+                    </td>
+            </tr>
+            <tr>
+              <td>
+                <table width="600" cellpadding="0" cellspacing="0" border="0" style="font-size: 11px;">
+                    <tbody><tr>
+                    <td align="left" class="">
+                      <p style="color:#8b8883; font-size: 12px; margin: 0px;">
+                        <a href="http://pages.wistia.com/webmail/9972/182992932/374166cd6c69b9474118dcf702e6339f" style="text-decoration: none; color:#8b8883; font-size: 12px; line-height: 15px;">View Online</a>
+                      </p>
+                      <p style="color:#8b8883; font-size: 12px; margin: 0px;">
+                        <a href="http://pages.wistia.com/emailPreference/9972/374166cd6c69b9474118dcf702e6339f/182992932" style="text-decoration: none; color:#8b8883; font-size: 12px; line-height: 15px;">Email Preferences</a>
+                      </p>
+                      <p style="color:#8b8883; font-size: 12px; margin: 0px;">
+                        <a href="http://pages.wistia.com/unsubscribe/u/9972/374166cd6c69b9474118dcf702e6339f/182992932" style="text-decoration: none; color:#8b8883; font-size: 12px; line-height: 15px;">Unsubscribe</a>
+                      </p>
+                    </td>
+                    <td align="right" class="">
+                      <a href="http://pages.wistia.com/e/9972/2013-01-23/bxmyr/182992932"><img src="http://storage.pardot.com/9972/46711/wistia_logo.png" width="100" height="19" alt="Wistia, Inc."></a>
+                      <p style="color:#8b8883; font-size: 12px; margin-top: 3px">50 Grove St.<br>Somerville, MA 02114</p></td>
+                    </tr>
+                </tbody></table>
+              </td>
+            </tr>
+            <tr>
+              <td height="60" class=""></td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+    </tbody></table>
+</body>
+</html>
