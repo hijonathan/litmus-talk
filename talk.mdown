@@ -20,6 +20,6 @@ And while we're going to go over some future-forward techniques, the thing I mos
 
 # An Important Caveat
 
-The stuff I'm about to teach you is probably not something you should implement at work without careful consideration. We're about to say _goodbye_ to Outlook, Lotus Notes and Gmail. Yes, even Gmail.
+The stuff I'm about to teach you is not something you should implement without careful consideration. We're about to say _goodbye_ to Outlook, Lotus Notes and Gmail. Yes, even Gmail.
 
 

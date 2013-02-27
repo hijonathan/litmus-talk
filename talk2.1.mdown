@@ -5,15 +5,18 @@ Brave New World
 So what do we get when we unshackle ourselves from Outlook?
 
 
-# CSS3
+# The Tools to Stand Out
 
-You may already be intimately familiar with modern CSS, but here's a quick recap of the parts I think can be particularly interesting for email:
+Staying relevant in the inbox will always be tough. Thankfully, you now have a whole new set of tools to help you make a strong impression. And people really care.
 
+> __Hunter Walk__ ‏@hunterwalk
+> "@500Startups is the only fund which includes animations in their emails to LPs. Unique in every way @davemcclure, unique in every way :)"
+
+So let's talk about a couple of those.
 
 ### [Animations](https://github.com/daneden/animate.css)
 
 Animations are particularly cool when done right. More people are starting to open email in mobile, and it's going to be even more difficult to stand out. A subtle transition/animation can go a long way to making a strong impression.
-
 
 ### [Drawings](https://developer.mozilla.org/en-US/demos/detail/pure-css3-homer/launch)
 
@@ -21,8 +24,7 @@ Ros and Justine have written about cool image fallbacks using background colors 
 
 You can either use an image to HTML converter like [this one](https://github.com/HubSpot/img2html), or you can draw the image in CSS.
 
-Another simpler alternative is to embed an SVG image. Simply export your image to SVG format and open it in your favorite text editor to get the underlying code. Then simply copy/paste that into your email.
-
+Another simple alternative is to embed an SVG image. Simply export your image to SVG format and open it in your favorite text editor to get the underlying code. Then simply copy/paste that into your email.
 
 ### [Fancy hover/click state](http://www.zurb.com/playground/css-boxshadow-experiments)
 
@@ -31,10 +33,13 @@ In email, we usually think of _clicks_ as a way to take people to the web. But o
 With some CSS, you can take advantage of the :hover or :visited state of elements on the page.
 
 
-# HTML5
+# The Power to Delight and Entertain
 
-Incorporating some of the new stuff in HTML5 can let you take huge leaps toward techniques. Ros and the Campaign Monitor team have already done a great job diving into this area, and I thought I'd highlight a couple of my favorites:
+> "I love getting unstyled, impersonal marketing emails that I can share with all my friends and colleagues." - No one, ever
 
+How many times have you received a truly spectular email? One that you just had to share with your friends? Keeping someone engaged with your email, even when the content is great, is very difficult to do.
+
+Instead of trying to bombard people with information, we can instead attempt to make a personal connection and set the right tone with a video.
 
 ### Rich Media
 
@@ -47,15 +52,25 @@ This has been something long sought-after. People have done some pretty sweet wo
 The support for these is actually pretty startling. There are a number of fallbacks, and you can even drop all the way down to just showing an image. I'm certain there's more innovation to be made here.
 
 
-# Emulating Javascipt
+# The Option to See More, Do More
 
-This is one of my favorite topic areas. We saw some of this in the fancy click/hover state examples, but now that we're in the future, there's more than one way to skin this bad ass cat.
+This happens to me all the time: in the middle of my commute, I'll get an email that asks me a question.
 
+> "Acknowledge or escalate?" - Rodan alert service
+
+> "Want to read more?" - Wistia Video Snack Email
+
+> "Add to cart?" - Amazon Local Deals
+
+> "Why did you buy that stupid deal?" - My girlfriend
+
+I'm interested in these emails, but I'm also busy at the moment: I'm trying to get through my email, so I'll inevitably have to come back to these emails at a later time, definitely when I'm not on my phone.
+
+For marketers and email designers, that's a missed opportunity. Let's fix that.
 
 ### Hover is the New Click
 
 Hover events on the web are actually triggered by click events in mobile. This means that you can use the CSS pseudo selector `:hover` to style things differently when clicked.
-
 
 ### Sibling Selectors
 
@@ -63,35 +78,10 @@ The `:hover` pseudo selector is great when you want to style the clicked element
 
 An oft overlooked detail in CSS is the sibling selector. With it, you can get stuff next to an element. Combine that with the `:hover` selector, and you now have click-control of adjacent elements.
 
-
 ### Jumping the Shark with Checkboxes
 
 If that's not cool enough, you can style things beyond just the adjacent by using `<label>` and `<input>` tags.
 
-
 ### SVG
 
-The above techniques are great for doing simple collapse/expand patterns, in-page navigation and the like. If you want to get more advanced, you can also try your hand at using SVG and SMIL animation.
-
-
-# Tracking
-
-As we're all aware, the hallmark of email tracking is the pixel. When someone opens an email, a pixel is fired.
-
-However, we can now use what we know about click events to fire more intelligent pixels to a server or app of our choice. Want to get someone to RSVP to an event? What about answering a simple survey?
-
-
-### Background images
-
-They're loaded when painted, not all at once. This means we can assign the background image to a hidden element, then show that element using one of the above click techniques.
-
-If you told this to any competent web developer, they'll probably yawn. But this is something that's never been possible before mobile and standards-compliant email clients.
-
-
-### SVG events api
-
-As I mentioned, SMIL gives SVG it's own non-Javascript API for doing events. You can do actions when someone clicks, mouses or scrolls. I'm still trying to figure out how to put those to good use, but they could provide much more intelligent analytics into how people are reading your email:
-
-- How far do they get into it? Halfway? All the way to the bottom?
-- Are they rereading it?
-- Are they zooming? Clicking? Double clicking?
+The above techniques are great for doing simple collapse/expand patterns, in-page navigation and the like. If you want to get more advanced, you can also try your hand at using SVG and SMIL events.

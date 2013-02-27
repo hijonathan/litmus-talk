@@ -1,0 +1,62 @@
+/* line 2, style.sass */
+.accent {
+  color: #2ba6cb;
+}
+
+/* line 5, style.sass */
+h1 {
+  font-size: 60px;
+}
+
+/* line 8, style.sass */
+.step {
+  min-width: 600px;
+}
+
+/* line 11, style.sass */
+.slide {
+  padding: 20px;
+  text-align: center;
+}
+/* line 15, style.sass */
+.slide.accented {
+  background-color: #2ba6cb;
+}
+/* line 18, style.sass */
+.slide.accented * {
+  color: white;
+}
+/* line 21, style.sass */
+.slide.jumbo {
+  width: 800px;
+}
+/* line 24, style.sass */
+.slide.numbered-set {
+  width: 700px;
+}
+/* line 27, style.sass */
+.slide.numbered-set .count {
+  font-size: 140px;
+  background-color: #2ba6cb;
+  display: inline-block;
+  padding: 0.1em;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  float: left;
+  margin-right: 0.2em;
+}
+/* line 38, style.sass */
+.slide.numbered-set h1 {
+  text-align: left;
+  margin-top: -12px;
+}
+
+/* line 43, style.sass */
+#big-picture {
+  width: 1000px;
+}
+/* line 46, style.sass */
+#big-picture h1 {
+  font-size: 80px;
+}
