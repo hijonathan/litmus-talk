@@ -57,6 +57,16 @@ h1 {
   width: 1000px;
 }
 /* line 46, style.sass */
+#big-picture h1, #big-picture h2 {
+  margin: 0;
+}
+/* line 49, style.sass */
 #big-picture h1 {
   font-size: 80px;
+  border-bottom: 5px solid #2ba6cb;
+  display: inline;
+}
+/* line 54, style.sass */
+#big-picture h2 {
+  color: #666666;
 }

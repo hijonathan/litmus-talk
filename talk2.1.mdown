@@ -33,7 +33,7 @@ In email, we usually think of _clicks_ as a way to take people to the web. But o
 With some CSS, you can take advantage of the :hover or :visited state of elements on the page.
 
 
-# The Power to Delight and Entertain
+# The Power to Engage
 
 > "I love getting unstyled, impersonal marketing emails that I can share with all my friends and colleagues." - No one, ever
 
@@ -43,7 +43,7 @@ Instead of trying to bombard people with information, we can instead attempt to 
 
 ### Rich Media
 
-This has been something long sought-after. People have done some pretty sweet workarounds with animated gifs and fancy CSS. But we've said farewell to that world, meaning we can now say hello to the `<video>` and `<audio>` tags.
+This has been something long sought-after. People have done some pretty sweet workarounds with animated gifs and fancy CSS. But since we're designing for mobile, we can take full advantage of `<video>` and `<audio>` tags.
 
 [Video in email](http://www.campaignmonitor.com/uploads/testing/html5video-2011/index.html)
 
@@ -52,7 +52,7 @@ This has been something long sought-after. People have done some pretty sweet wo
 The support for these is actually pretty startling. There are a number of fallbacks, and you can even drop all the way down to just showing an image. I'm certain there's more innovation to be made here.
 
 
-# The Option to See More, Do More
+# The Ability to Convert
 
 This happens to me all the time: in the middle of my commute, I'll get an email that asks me a question.
 
@@ -61,8 +61,6 @@ This happens to me all the time: in the middle of my commute, I'll get an email 
 > "Want to read more?" - Wistia Video Snack Email
 
 > "Add to cart?" - Amazon Local Deals
-
-> "Why did you buy that stupid deal?" - My girlfriend
 
 I'm interested in these emails, but I'm also busy at the moment: I'm trying to get through my email, so I'll inevitably have to come back to these emails at a later time, definitely when I'm not on my phone.
 
