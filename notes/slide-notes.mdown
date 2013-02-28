@@ -1,0 +1,66 @@
+Slide Notes
+===========
+
+# 1
+I'm Jonathan
+
+
+# 2
+My talk is "pushing the limits of mobile", but really much of this stuff can be applied to email as a whole. Mobile is a really different environment, but in many ways, it's a preview of what's to come.
+
+This is because the rise of mobile has brought the modern web with it. HTML5, CSS3 and OS-specific APIs are available to us to as powerful tools for design and marketing.
+
+We'll take a look at some techniques of varying complexity that were previously impossible before mobile.
+
+As a marketer, designer, developer, these are techniques that will give you a competitive edge.
+
+# 3
+So what am I really talking about here?
+
+As email designers, we've been trained to think of email as an archaic, backward world. A great email designer knows more about `<table>` than most people know about HTML.
+
+And that's extremely impressive, but this hasn't changed in a while. Dealing with clients like Outlook and Lotus Notes is more-or-less mandatory for any email of scale, but we can't let this hinder our creativity.
+
+That's really what I'm here to talk about today.
+
+# 4
+If there's one thing I want to impart to you, it's the idea that there is still plenty of innovation in email. In fact, there is so much innovation...
+
+#5
+...that I think we need a framework for how to think about it.
+
+I'd like to break out of this "defensive" way of designing emails and have a more optimistic outlook.
+
+# 6
+Before we dive in, I just want to say up front that not all of this is battle-tested to work in older clients. That's something I hope to get to eventually.
+
+Great! Now on to the meat.
+
+So what do we get when we unshackle ourselves from Outlook?
+
+# 7
+Staying relevant in the inbox will always be tough. Thankfully, you now have a whole new set of tools to help you make a strong impression. And people really care.
+
+#8
+This is a tweet from Hunter Walk. He's a pretty well-known and successful product guy. He has 35k twitter followers, and here he is talking about an email he got.
+
+That's remarkable, and not just the "oh that's neat" kind of "remarkable." I stole this line from my CTO, but the definition of remarkable is something that causes someone to talk--to remark--about it.
+
+This email they're talking about is _remarkable_. There's an entire thread on it.
+
+# 9
+The technique he's talking about is done using CSS animations. It's a (moderately) simple way to add a bit of life to an HTML element.
+
+I'm a huge fan of this local video company called Wistia. Today, I'm going to pick on them a bit by making their emails better.
+
+I've added a "pulse" animation to one of their recent emails. Every 7.5 seconds, the image, the main CTA here, gets richer for a bit. It's subtle, but perhaps it's enough to catch someone's attention and do something novel.
+
+# 10
+Remember, Wistia is a video company. There should be something here that moves and engages.
+
+This example here could possibly be done with an animated gif, but if you want to do something rich and light, there are other techniques you can use.
+
+My favorites are to do things with CSS, embedded images, or SVG. These are great for vector images, probably not a great fit for raster.
+
+# 11
+
