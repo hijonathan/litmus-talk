@@ -32,7 +32,7 @@ blockquote + .attrib {
 
 /* line 26, style.sass */
 .slide ul li {
-  list-style: none;
+  list-style-type: none;
 }
 
 /* line 29, style.sass */
@@ -92,40 +92,44 @@ blockquote + .attrib {
   box-shadow: 0px 0px 12px #cccccc;
 }
 /* line 76, style.sass */
+.slide.future-set {
+  height: 600px;
+}
+/* line 79, style.sass */
 .slide table {
   margin: 0 auto;
 }
-/* line 79, style.sass */
+/* line 82, style.sass */
 .slide table td {
   vertical-align: middle;
 }
-/* line 82, style.sass */
+/* line 85, style.sass */
 .slide table td:first-child {
   text-align: right;
 }
 
-/* line 86, style.sass */
+/* line 89, style.sass */
 .tweet {
   border: 1px solid #cccccc;
   border-radius: 6px;
   padding: 10px 0;
 }
 
-/* line 92, style.sass */
+/* line 95, style.sass */
 #big-picture {
   width: 1000px;
 }
-/* line 95, style.sass */
+/* line 98, style.sass */
 #big-picture h1, #big-picture h2 {
   margin: 0;
 }
-/* line 98, style.sass */
+/* line 101, style.sass */
 #big-picture h1 {
   font-size: 6em;
   border-bottom: 5px solid #2ba6cb;
   display: inline;
 }
-/* line 103, style.sass */
+/* line 106, style.sass */
 #big-picture h2 {
   color: #666666;
 }

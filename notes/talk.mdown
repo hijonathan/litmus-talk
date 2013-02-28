@@ -7,6 +7,8 @@ The rise of mobile has brought the modern web with it. Now HTML5, CSS3 and OS-sp
 
 # What am I Talking About?
 
+As a company, these techniques can help us give marketers an edge.
+
 As email designers, we've been trained to think of email as an archaic, backward world. There are so many nuances, gotchas and straight-up WTFs!? that a good designer is someone who understands how to code for the Microsoft Word rendering engine. A good designer knows more about `<table>` than most people know about HTML.
 
 And that's impressive.

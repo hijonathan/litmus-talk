@@ -1,0 +1,2446 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="1024"
+   id="svg3962"
+   onload="init()"
+   onmousemove="mouse_move(evt)"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="melbourne_central.svg"
+   style="display:inline">
+  <metadata
+     id="metadata3993">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3991">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 300 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="800 : 300 : 1"
+       inkscape:persp3d-origin="400 : 200 : 1"
+       id="perspective3995" />
+    <inkscape:perspective
+       id="perspective3862"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4025"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4057"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3763"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3073"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3754"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3784"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3811"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3833"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3857"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3879"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3901"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3923"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3945"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3967"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3991"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3074"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3096"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3118"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3140"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3886"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3908"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3934"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3959"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3134"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3163"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3191"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3219"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3250"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3281"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3312"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3340"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3340-6"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3381"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3425"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3976"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4016"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4038"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4063"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3187"
+       inkscape:persp3d-origin="0.5 : 0.333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="726"
+     id="namedview3989"
+     showgrid="false"
+     inkscape:zoom="1.02634"
+     inkscape:cx="-295.636"
+     inkscape:cy="983.349"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g_labels" />
+  <script
+     xlink:href="melbourne_central.json.js"
+     id="scriptjson"
+     type="text/javascript" />
+  <script
+     xlink:href="main.js"
+     id="scriptmain"
+     type="text/javascript" />
+  <!--
+  <g
+     display="inline"
+     id="g3964"
+     style="opacity:0;display:inline">
+    <title
+       id="title3966">Melbourne Central : Level G</title>
+    <image
+       sodipodi:absref="../img/melbournecentral.Gaa.png"
+       xlink:href="../img/melbournecentral.Gaa.png"
+       id="svg_2"
+       height="495"
+       width="856"
+       y="3"
+       x="3" />
+  </g>
+-->
+  <g
+     inkscape:groupmode="layer"
+     id="summary"
+     inkscape:label="summary_box"
+     style="opacity:0.760563;display:none">
+    <rect
+       style="opacity:0.663677;fill:#fff6f6;fill-opacity:1;stroke:#856a6a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="summ_bg_box"
+       width="204.495"
+       height="401.687"
+       x="817.981"
+       y="66.852"
+       inkscape:label="summ_bg_box" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.883966px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:80.000001%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif Bold"
+       x="975.37708"
+       y="78.6772"
+       id="summ_title_box"
+       sodipodi:linespacing="80%"
+       inkscape:label="summ_title"
+       transform="scale(0.84728,1.18025)"><tspan
+         sodipodi:role="line"
+         id="summ_title"
+         x="975.37708"
+         y="78.6772" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif Semi-Condensed"
+       x="828.32764"
+       y="115.88918"
+       id="summ_url_box"
+       sodipodi:linespacing="100%"
+       inkscape:label="summ_url_box"><tspan
+         sodipodi:role="line"
+         id="summ_url"
+         x="828.32764"
+         y="115.88918" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     style="opacity:0.21831;display:inline">
+    <rect
+       style="fill:#f0f0f0;fill-opacity:1;stroke:#dcdcdc;stroke-width:2.273312;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2942"
+       width="836.852"
+       height="406.63"
+       x="127.423"
+       y="63.8586" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.046158px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       x="-392.91937"
+       y="129.50124"
+       id="text3722"
+       transform="matrix(7.08801e-5,-1.07151,0.933262,8.13805e-5,0,0)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3724"
+         x="-392.91937"
+         y="129.50124">ELIZABETH STREET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.484655px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       x="192.71489"
+       y="60.691574"
+       id="text3726"
+       sodipodi:linespacing="125%"
+       transform="scale(1.20767,0.82804)"><tspan
+         sodipodi:role="line"
+         id="tspan3728"
+         x="192.71489"
+         y="60.691574">LATROBE STREET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.559181px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       x="-391.97095"
+       y="1024.5143"
+       id="text3730"
+       transform="matrix(2.10937e-6,-1.03524,0.96596,2.26062e-6,0,0)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3732"
+         x="-391.97095"
+         y="1024.5143">SWANSTON STREET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.862108px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       x="126.76886"
+       y="569.86902"
+       id="text3734"
+       transform="scale(1.15131,0.868576)"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3736"
+         x="126.76886"
+         y="569.86902">LITTLE LONSDALE ST</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g_solid"
+     inkscape:label="g_solid"
+     style="opacity:0.288732;fill:#b3b7be;fill-opacity:1;stroke:#54596b;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline">
+    <path
+       id="svg_off001_melbourne_central_office_tower"
+       d="m 137.475,230.168 84.68,0.168 6.363,-8.754 89.664,88.418 22.391,0.707 5.218,-4.848 -0.371,34.107 -5.42,-6.498 -23.636,0.168 -87.812,89.125 -14.209,-15.656 -76.532,-0.337 -0.336,-176.6 z"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:label="melbourne_central_office_tower">
+      <title
+         id="title2915">melbourne_central_office_tower</title>
+    </path>
+    <path
+       id="path3634"
+       d="m 612.189,274.141 22.356,0 0.169,9.664 43.972,0.572 -0.37,32.896 -45.05,0.168 -0.168,18.014 -20.909,0 0,-61.314 z"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       d="m 326.193,81.6039 105.442,0.01 0.241,181.1531 -38.75,0 0.746,-91.411 -20.591,0 -47.319,-36.286 0.231,-53.4529 z"
+       id="svg_off010_empty"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:label="empty" />
+    <path
+       d="m 374.426,347.626 -0.373,25.273 13.918,15.249 -19.196,0 0.322,48.095 18.501,0.105 0.05,8.858 -105.309,-0.374 92.085,-97.206 z"
+       id="svg_off011_empty02"
+       inkscape:label=""
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g_transports"
+     inkscape:label="g_transports"
+     style="opacity:0.788732;display:inline">
+    <g
+       transform="matrix(0.233055,0,0,0.262684,306.481,139.936)"
+       id="trans_lift">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#d3401e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3714"
+         width="116"
+         height="102.667"
+         x="22.0952"
+         y="252.743" />
+      <path
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 123.333,294.076 98.381,269.315 98,342.076"
+         id="lift_up"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="lift_dn"
+         d="M 63.2381,268.362 63.0476,340.743 38.8572,315.41"
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(0.232759,0,0,0.262989,179.504,142.966)"
+       id="trans_escalater">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#c24c37;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect2816"
+         width="116"
+         height="102.667"
+         x="21.3333"
+         y="21.6955" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3688"
+         d="m 37.0169,108.679 15.8249,0 52.8942,-69.9666 15.914,0"
+         style="fill:none;stroke:#c24c37;stroke-width:12.667056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(0.233129,0,0,0.263065,564.259,215.673)"
+       id="trans_stairs">
+      <rect
+         y="136.172"
+         x="20.9524"
+         height="102.667"
+         width="116"
+         id="rect3698"
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#d3401e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path3704"
+         d="m 122.286,150.838 -24.0003,0 -1.3333,36 -34.6667,0 -1.3333,36 -25.3333,0"
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_lift"
+       id="use4080"
+       transform="translate(127.485,224.475)"
+       width="800"
+       height="600" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_escalater"
+       id="use4015"
+       transform="translate(383.461,45.1054)"
+       width="800"
+       height="600" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_lift"
+       id="use4082"
+       transform="translate(326.342,115.655)"
+       width="800"
+       height="600" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_escalater"
+       id="use4011"
+       transform="translate(352.161,-69.5383)"
+       width="800"
+       height="600" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_escalater"
+       id="use4013"
+       transform="translate(425.496,-33.7972)"
+       width="800"
+       height="600" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_stairs"
+       id="use4045"
+       transform="translate(70.2915,0.0195)"
+       width="800"
+       height="600" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_stairs"
+       id="use4047"
+       transform="translate(0.08939,68.8949)"
+       width="800"
+       height="600" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#trans_lift"
+       id="use4098"
+       transform="translate(362.859,-41.8695)"
+       width="800"
+       height="600" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g_lots"
+     inkscape:label="g lots"
+     style="display:inline">
+    <g
+       display="inline"
+       id="svg_retail_lots"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       style="opacity:0.75;fill:#ffaa56;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;display:inline">
+      <title
+         id="title3971">RetailLots G</title>
+      <path
+         id="lot001_commonwealth_bank"
+         d="m 227.049,83.029 0.2,50.86 L 326,134 326.111,82.6362 227.049,83.029 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lot002_sanity"
+         d="M 194.985,101.793 195.189,83 227,83 227.37,144.889 137,145 l 0.05,-42.75 57.936,-0.457 0,0 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         id="lot003_priceline"
+         d="m 282.167,135.094 42.927,0.09 L 373,172 l 20,0 0,30 -112,0 1.167,-66.906 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="priceline">
+        <title
+           id="title2913">Priceline</title>
+      </path>
+      <path
+         id="lot004_ozmosis"
+         d="m 432.441,81.1957 88.017,0.2625 0,90.9998 -87.957,0.345 -0.06,-91.6073 z"
+         inkscape:label="ozmosis"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc">
+        <title
+           id="title2910">Ozmosis</title>
+      </path>
+      <path
+         id="lot005_food_inc"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         d="m 135.5,200 93,0 0.5,20.5 -7,10 -86,0 -0.5,-30.5 z" />
+      <path
+         id="lot006_spiga"
+         d="M 247.37,200.37 290,245 l -17.519,19 -43.851,-42.111 -0.26,-21.63 19,0.111 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="lot007_cafe_era"
+         d="m 347,303.5 -6.5,7 -21.148,0.13 -46.593,-46.241 16.76,-19 L 347,303.5 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="lot008_mee_too_cafe_and_bar"
+         d="m 343,219 49.645,0 -0.31,44.554 -17.565,0.03 0.79,50.34 L 343,273 l 0,-54 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="lot010_max_brenner"
+         d="m 315,334 25,0 6,7 -47,50 L 279.63,371.519 315,334 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="lot011_chilli_pad"
+         d="M 209.407,442.37 278.889,371.889 298.481,391.37 248,443 209.407,442.37 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lot012_equinox"
+         d="m 139,407 75,0 14,15 -20,20 -69,0.111 0,-35.111 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="lot013_ella_bache"
+         d="m 375,331 31.282,0.06 0.111,55.94 -0.393,40 -1,32 -17,0 0.63,-22.741 L 369,436 369,389 389,388 375.111,373.37 375,331 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:label="ella_bache">
+        <title
+           id="title2896">Ella Bache</title>
+      </path>
+      <path
+         id="lot018_7_eleven"
+         d="m 137.135,83.0926 58.426,0.1861 0.187,18.9793 -58.613,0 0,-19.1654 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="lot033_telechoice"
+         d="m 137.048,144.681 0.214,25.42 41.719,0.09 0.09,-25.207 -42.022,-0.302 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="telechoice">
+        <title
+           id="title2890">Telechoice</title>
+      </path>
+      <path
+         id="lot032_rageneau_crepes"
+         d="m 227.524,133.678 0.214,37.117 53.968,0.09 0.605,-36.814 -54.787,-0.391 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="rageneau_crepes">
+        <title
+           id="title2888">Rageneau Crepes</title>
+      </path>
+      <path
+         id="lot046_coast_to_coast"
+         d="m 499.916,431.506 19.624,0.214 0,29.027 -19.713,-0.09 0.09,-29.152 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="coast_to_ coast">
+        <title
+           id="title2930">Coast to Coast</title>
+      </path>
+      <path
+         id="lot035_jaksbad"
+         d="m 580.937,362.218 0.09,16.638 42.2,0 0,-16.638 -42.288,0 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="jaksbad">
+        <title
+           id="title2894">Jaksbad</title>
+      </path>
+      <path
+         id="lot034_alter_it"
+         d="m 579.425,283.277 15.377,-0.09 -0.178,22.398 -15.199,0 0,-22.309 z"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="alter_it">
+        <title
+           id="title2892">Alter It</title>
+      </path>
+      <rect
+         id="lot019_kikklik"
+         width="17.2305"
+         height="49.8777"
+         x="375.443"
+         y="264.157"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="Kikklik">
+        <title
+           id="title2868">Kikklik</title>
+      </rect>
+      <rect
+         id="lot020_tommy_hilfinger"
+         width="88.5707"
+         height="28.7175"
+         x="432.273"
+         y="204.304"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="TommyHilfinger">
+        <title
+           id="title2872">Tommy Hilfinger</title>
+      </rect>
+      <rect
+         id="lot021_general_pants"
+         width="88.5707"
+         height="30.5312"
+         x="432.576"
+         y="233.021"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="GeneralPants">
+        <title
+           id="title2878">General Pants</title>
+      </rect>
+      <rect
+         id="lot027_calvin_klein_jeans"
+         width="50.4823"
+         height="17.5328"
+         x="470.664"
+         y="263.855"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="calvin_klein_jeans">
+        <title
+           id="title2891">Calvin Klein Jeans</title>
+      </rect>
+      <rect
+         id="lot029_duplicake"
+         width="16.0213"
+         height="32.3449"
+         x="487.895"
+         y="281.69"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="duplicake">
+        <title
+           id="title2899">Duplicake</title>
+      </rect>
+      <rect
+         id="lot030_bakery_cliveden"
+         width="17.2305"
+         height="32.3449"
+         x="503.916"
+         y="281.992"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="bakery_cliveden">
+        <title
+           id="title2903">Bakery Cliveden</title>
+      </rect>
+      <rect
+         id="lot031_g_star"
+         width="88.2684"
+         height="30.8335"
+         x="432.273"
+         y="172.866"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="GStar">
+        <title
+           id="title2874">G Star</title>
+      </rect>
+      <rect
+         id="lot023_sophie_randall"
+         width="38.9953"
+         height="50.7846"
+         x="392.673"
+         y="263.552"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="sophie_randall">
+        <title
+           id="title2879">Sophie Randall</title>
+      </rect>
+      <rect
+         id="lot024_max_therapy"
+         width="19.9511"
+         height="50.4823"
+         x="431.366"
+         y="263.552"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="max_therapy">
+        <title
+           id="title2883">Max Therapy</title>
+      </rect>
+      <rect
+         id="lot025_millenium_hair"
+         width="18.7419"
+         height="50.18"
+         x="451.62"
+         y="263.855"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="millenium_hair">
+        <title
+           id="title2887">Millenium Hair</title>
+      </rect>
+      <rect
+         id="lot028_perfect_potion"
+         width="16.0213"
+         height="32.0426"
+         x="470.966"
+         y="281.69"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="perfect_potion">
+        <title
+           id="title2895">Perfect Potion</title>
+      </rect>
+      <rect
+         id="lot036_georgeous_cosmetics"
+         width="20.5671"
+         height="55.5311"
+         x="406.543"
+         y="331.028"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="georgeous_cosmetics">
+        <title
+           id="title2900">Georgeous Cosmetics</title>
+      </rect>
+      <rect
+         id="lot037_original_lolly"
+         width="21.0241"
+         height="55.0741"
+         x="427.795"
+         y="331.257"
+         ry="0"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="original_lolly">
+        <title
+           id="title2904">Original Lolly</title>
+      </rect>
+      <rect
+         id="lot038_o_p_s_m"
+         width="23.7664"
+         height="55.0741"
+         x="448.591"
+         y="331.257"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="o_p_s_m">
+        <title
+           id="title2908">OPSM</title>
+      </rect>
+      <rect
+         id="lot039_dusk"
+         width="23.9949"
+         height="55.3026"
+         x="472.814"
+         y="331.028"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="dusk">
+        <title
+           id="title2912">Dusk</title>
+      </rect>
+      <rect
+         id="lot040_tigerlilly"
+         width="24.452"
+         height="27.4228"
+         x="496.809"
+         y="331.028"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="tigerlilly">
+        <title
+           id="title2916">Tigerlilly</title>
+      </rect>
+      <rect
+         id="lot041_king_of_knives"
+         width="23.995"
+         height="19.1959"
+         x="497.038"
+         y="358.68"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="king_of_knives">
+        <title
+           id="title2920">King of Knives</title>
+      </rect>
+      <rect
+         id="lot042_express_money"
+         width="24.2235"
+         height="8.22683"
+         x="496.809"
+         y="378.104"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="express_money">
+        <title
+           id="title2924">Express Money</title>
+      </rect>
+      <rect
+         id="lot045_sportsgirl"
+         width="114.947"
+         height="40.4486"
+         x="406.086"
+         y="386.788"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="sportsgirl">
+        <title
+           id="title2928">Sportsgirl</title>
+      </rect>
+      <rect
+         id="lot051_un_caffe"
+         width="15.9362"
+         height="32.6693"
+         x="548.207"
+         y="258.964"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="un_caffe">
+        <title
+           id="title2923">Un Caffe</title>
+      </rect>
+      <rect
+         id="lot063_miss_sixty"
+         width="70.5179"
+         height="45.4499"
+         x="581.275"
+         y="416.334"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="miss_sixty">
+        <title
+           id="title2945">Miss Sixty</title>
+      </rect>
+      <rect
+         id="lot065_diesel_bettina_liano"
+         width="48.6056"
+         height="98.3748"
+         x="701.594"
+         y="363.378"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="diesel_bettina_liano">
+        <title
+           id="title2949">Diesel Bettina Liano</title>
+      </rect>
+      <rect
+         id="lot071_e_b_games"
+         width="57.4658"
+         height="36.5619"
+         x="644.128"
+         y="108.856"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="e_b_games">
+        <title
+           id="title2965">E B Games</title>
+      </rect>
+      <rect
+         id="lot050_first_impressions"
+         width="16.3793"
+         height="16.3793"
+         x="548.276"
+         y="235.345"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="first_impressions">
+        <title
+           id="title2919">First Impressions</title>
+      </rect>
+      <rect
+         id="lot052_watch_works"
+         width="15.9363"
+         height="18.7251"
+         x="548.207"
+         y="291.235"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="watch_works">
+        <title
+           id="title2927">Watch Works</title>
+      </rect>
+      <rect
+         id="lot054_new_zealand_natural"
+         width="15.1395"
+         height="27.8885"
+         x="548.606"
+         y="330.279"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="new_zealand_natural">
+        <title
+           id="title2933">new_zealand_natural</title>
+      </rect>
+      <rect
+         id="lot060_3"
+         width="42.661"
+         height="25.5611"
+         x="581.306"
+         y="390.438"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="3">
+        <title
+           id="title2937">3</title>
+      </rect>
+      <rect
+         id="lot061_diesel"
+         width="49.4024"
+         height="98.4064"
+         x="652.191"
+         y="363.347"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="diesel">
+        <title
+           id="title2941">Diesel</title>
+      </rect>
+      <rect
+         id="lot067_information"
+         width="18.9366"
+         height="34.94"
+         x="550.784"
+         y="73.4266"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="information">
+        <title
+           id="title2953">Information</title>
+      </rect>
+      <rect
+         id="lot067_industrie"
+         width="43.0279"
+         height="35.0598"
+         x="570.119"
+         y="73.3068"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="industrie">
+        <title
+           id="title2957">Industrie</title>
+      </rect>
+      <rect
+         id="lot069_henleys"
+         width="88.4463"
+         height="34.9643"
+         x="613.148"
+         y="73.3068"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="henleys">
+        <title
+           id="title2961">Henleys</title>
+      </rect>
+      <rect
+         id="lot072_donut_king"
+         width="57.4021"
+         height="27.9831"
+         x="644.223"
+         y="145.817"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="donut_king">
+        <title
+           id="title2969">Donut King</title>
+      </rect>
+      <rect
+         id="lot080_5cm"
+         width="56.9721"
+         height="25.498"
+         x="644.622"
+         y="184.462"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="5cm">
+        <title
+           id="title2973">5cm</title>
+      </rect>
+      <rect
+         id="lot082_that_store"
+         width="56.5421"
+         height="24.2081"
+         x="645.02"
+         y="210.39"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="that_store">
+        <title
+           id="title2977">That Store</title>
+      </rect>
+      <rect
+         id="lot083_carhartt"
+         width="113.944"
+         height="25.498"
+         x="587.649"
+         y="234.661"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="carhartt">
+        <title
+           id="title2981">Carhartt</title>
+      </rect>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g_labels"
+     inkscape:label="g_labels"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#760600;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+       x="16.5637"
+       y="11.6649"
+       id="lot_label_g"
+       sodipodi:linespacing="125%"
+       inkscape:label="lot_label_g"><tspan
+         sodipodi:role="line"
+         id="tspan3186"
+         x="16.5637"
+         y="11.6649">lot label</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="l1_solid"
+     style="opacity:0.288732;fill:#b3b7be;fill-opacity:1;stroke:#54596b;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:none"
+     inkscape:label="l1_solid">
+    <path
+       d="m 133.152,78.3299 177.545,1.0971 1.38,133.216 85.81,1.097 0,80.165 -46.495,0.283 -143.717,147.23 -72.986,0.125 -1.537,-363.2131 z"
+       id="path3123"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       d="m 758.248,254.811 195.887,0 -0.282,187.546 -218.523,-0.125 0.314,-73.207 -31.415,-1.944 -0.125,-78.097 54.302,-1.253 -0.158,-32.92 z"
+       id="path3125"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       d="m 702.442,82.2175 43.547,0 -0.564,56.6525 -41.729,35.898 -1.254,-92.5505 z"
+       id="path3127"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="l1_transports"
+     inkscape:label="l1_transports"
+     style="display:none">
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.233129,0,0,0.263065,536.802,43.424)"
+       id="trans_stairs-5">
+      <rect
+         y="136.172"
+         x="20.9524"
+         height="102.667"
+         width="116"
+         id="rect3698-7"
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#d3401e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path3704-1"
+         d="m 122.286,150.838 -24.0003,0 -1.3333,36 -34.6667,0 -1.3333,36 -25.3333,0"
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.233129,0,0,0.263065,680.552,186.132)"
+       id="trans_stairs-5-9">
+      <rect
+         y="136.172"
+         x="20.9524"
+         height="102.667"
+         width="116"
+         id="rect3698-7-8"
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#d3401e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         id="path3704-1-1"
+         d="m 122.286,150.838 -24.0003,0 -1.3333,36 -34.6667,0 -1.3333,36 -25.3333,0"
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.233055,0,0,0.262684,637.833,258.957)"
+       id="trans_lift-0">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#d3401e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3714-5"
+         width="116"
+         height="102.667"
+         x="22.0952"
+         y="252.743" />
+      <path
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 123.333,294.076 98.381,269.315 98,342.076"
+         id="lift_up-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="lift_dn-3"
+         d="M 63.2381,268.362 63.0476,340.743 38.8572,315.41"
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.233055,0,0,0.262684,430.625,353.874)"
+       id="trans_lift-0-0">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#d3401e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3714-5-9"
+         width="116"
+         height="102.667"
+         x="22.0952"
+         y="252.743" />
+      <path
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 123.333,294.076 98.381,269.315 98,342.076"
+         id="lift_up-0-2"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="lift_dn-3-3"
+         d="M 63.2381,268.362 63.0476,340.743 38.8572,315.41"
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.233055,0,0,0.262684,682.959,82.4157)"
+       id="trans_lift-0-0-4">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#d3401e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3714-5-9-0"
+         width="116"
+         height="102.667"
+         x="22.0952"
+         y="252.743" />
+      <path
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 123.333,294.076 98.381,269.315 98,342.076"
+         id="lift_up-0-2-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="lift_dn-3-3-8"
+         d="M 63.2381,268.362 63.0476,340.743 38.8572,315.41"
+         style="fill:none;stroke:#c0401e;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.232759,0,0,0.262989,845.076,130.837)"
+       id="trans_escalater-9-4">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#c24c37;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect2816-9-3"
+         width="116"
+         height="102.667"
+         x="21.3333"
+         y="21.6955" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3688-3-7"
+         d="m 37.0169,108.679 15.8249,0 52.8942,-69.9666 15.914,0"
+         style="fill:none;stroke:#c24c37;stroke-width:12.667056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.232759,0,0,0.262989,921.118,40.211)"
+       id="trans_escalater-9-4-7">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#c24c37;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect2816-9-3-0"
+         width="116"
+         height="102.667"
+         x="21.3333"
+         y="21.6955" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3688-3-7-9"
+         d="m 37.0169,108.679 15.8249,0 52.8942,-69.9666 15.914,0"
+         style="fill:none;stroke:#c24c37;stroke-width:12.667056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.232759,0,0,0.262989,567.492,195.252)"
+       id="trans_escalater-9">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#c24c37;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect2816-9"
+         width="116"
+         height="102.667"
+         x="21.3333"
+         y="21.6955" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3688-3"
+         d="m 37.0169,108.679 15.8249,0 52.8942,-69.9666 15.914,0"
+         style="fill:none;stroke:#c24c37;stroke-width:12.667056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="opacity:0.788732;display:inline"
+       transform="matrix(0.232759,0,0,0.262989,567.492,243.169)"
+       id="trans_escalater-9-8">
+      <rect
+         style="fill:#a0bec8;fill-opacity:1;fill-rule:evenodd;stroke:#c24c37;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect2816-9-8"
+         width="116"
+         height="102.667"
+         x="21.3333"
+         y="21.6955" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3688-3-9"
+         d="m 37.0169,108.679 15.8249,0 52.8942,-69.9666 15.914,0"
+         style="fill:none;stroke:#c24c37;stroke-width:12.667056;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+  <!--
+  <g
+     inkscape:groupmode="layer"
+     id="bg_pic_L1"
+     inkscape:label="l1_g_pic"
+     style="opacity:0.253521;display:none">
+    <image
+       y="69.2133"
+       x="29.5241"
+       id="image3075"
+       height="925.667"
+       width="1039.65"
+       xlink:href="../img/melbournecentral.1.png" />
+  </g>
+-->
+  <g
+     inkscape:groupmode="layer"
+     id="l1_lots"
+     inkscape:label="l1_lots"
+     style="display:none">
+    <g
+       display="inline"
+       id="svg_retail_lots_l1"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       style="opacity:0.75;fill:#ffaa56;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;display:inline">
+      <title
+         id="title5777">RetailLots L1</title>
+      <rect
+         id="lot101_benetton"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="206.796"
+         height="73.7864"
+         x="312.136"
+         y="78.3689"
+         inkscape:label="benetton">
+        <title
+           id="title3768">Benetton</title>
+      </rect>
+      <rect
+         id="lot102_guess"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="206.796"
+         height="30.0971"
+         x="312.136"
+         y="151.67"
+         inkscape:label="guess">
+        <title
+           id="title3772">Guess</title>
+      </rect>
+      <rect
+         id="lot103_oakley"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="206.124"
+         height="30.5205"
+         x="312.622"
+         y="181.767"
+         inkscape:label="oakley">
+        <title
+           id="title3052">Oakley</title>
+      </rect>
+      <rect
+         id="lot104_sussan"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="120.264"
+         height="38.6598"
+         x="398.481"
+         y="212.649"
+         inkscape:label="sussan">
+        <title
+           id="title3050">Sussan</title>
+      </rect>
+      <rect
+         id="lot105_b_n_t"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="120.564"
+         height="25.7903"
+         x="398.182"
+         y="250.762"
+         inkscape:label="b_n_t">
+        <title
+           id="title3048">BNT</title>
+      </rect>
+      <rect
+         id="lot106_esprit"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="119.84"
+         height="55.0916"
+         x="398.607"
+         y="276.675"
+         inkscape:label="esprit">
+        <title
+           id="title3046">Esprit</title>
+      </rect>
+      <rect
+         id="lot107_chocolate_lounge"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="41.747"
+         height="55.7762"
+         x="591.894"
+         y="82.2201"
+         inkscape:label="chocolate_lounge" />
+      <rect
+         id="lot108_street_machine"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="41.1482"
+         height="37.9453"
+         x="592.265"
+         y="138.368"
+         inkscape:label="street_machine" />
+      <rect
+         id="lot109_seri_hair"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="32.2865"
+         height="31.8635"
+         x="669.965"
+         y="82.4272"
+         inkscape:label="seri_hair" />
+      <rect
+         id="lot110_yes_optus"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="33.6303"
+         height="34.6694"
+         x="668.571"
+         y="141.114"
+         inkscape:label="seri_hair" />
+      <rect
+         id="lot136_diesel"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="62.0066"
+         height="73.7189"
+         x="673.116"
+         y="368.797"
+         inkscape:label="diesel">
+        <title
+           id="title3082">Diesel</title>
+      </rect>
+      <rect
+         id="lot137_desire_jewellery"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="38.5819"
+         height="24.8026"
+         x="480.207"
+         y="415.646"
+         inkscape:label="desire_jewellery">
+        <title
+           id="title3084">Desire Jewellery</title>
+      </rect>
+      <rect
+         id="lot138_tilkah"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="38.5819"
+         height="37.204"
+         x="480.207"
+         y="441.138"
+         inkscape:label="tilkah">
+        <title
+           id="title3086">Tilkah</title>
+      </rect>
+      <g
+         id="l1_lots_hidden_temporarily"
+         style="display:none">
+        <rect
+           id="lot139_fcuk"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="89.5651"
+           height="54.428"
+           x="429.223"
+           y="479.031"
+           inkscape:label="fcuk">
+          <title
+             id="title3088">FCUK</title>
+        </rect>
+        <rect
+           id="lot140_nine_west"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="54.428"
+           height="22.7357"
+           x="464.36"
+           y="533.459"
+           inkscape:label="nine_west">
+          <title
+             id="title3090">Nine West</title>
+        </rect>
+        <rect
+           id="lot155_oxford"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="86.9671"
+           height="24.9605"
+           x="610.262"
+           y="478.873"
+           inkscape:label="oxford">
+          <title
+             id="title3114">Oxford</title>
+        </rect>
+        <rect
+           id="lot156_politix"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="86.8092"
+           height="18.602"
+           x="610.42"
+           y="503.834"
+           inkscape:label="politix">
+          <title
+             id="title3116">Politix</title>
+        </rect>
+        <rect
+           id="lot157_ojay"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="46.8494"
+           height="30.3143"
+           x="611.109"
+           y="534.148"
+           inkscape:label="ojay">
+          <title
+             id="title3118">Ojay</title>
+        </rect>
+        <rect
+           id="lot158_jacqui_e"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="84.5844"
+           height="34.4481"
+           x="611.267"
+           y="564.462"
+           inkscape:label="jacqui_e">
+          <title
+             id="title3120">Jacqui E</title>
+        </rect>
+        <rect
+           id="lot153_schum"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="33.7591"
+           height="13.7792"
+           x="548.414"
+           y="589.954"
+           inkscape:label="schum">
+          <title
+             id="title3112">Schum</title>
+        </rect>
+        <rect
+           id="lot142_pilgrim"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="49.6053"
+           height="26.1806"
+           x="469.872"
+           y="600.288"
+           inkscape:label="pilgrim">
+          <title
+             id="title3094">Pilgrim</title>
+        </rect>
+        <rect
+           id="lot144_armani_exchange"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="90.254"
+           height="38.632"
+           x="428.958"
+           y="626.153"
+           inkscape:label="armani_exchange">
+          <title
+             id="title3096">Armani Exchange</title>
+        </rect>
+        <rect
+           id="lot159_portmans"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="84.3189"
+           height="37.3618"
+           x="611.267"
+           y="598.752"
+           inkscape:label="portmans">
+          <title
+             id="title3122">Portmans</title>
+        </rect>
+        <rect
+           id="lot160_sportscraft"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="84.1611"
+           height="31.1611"
+           x="611.109"
+           y="636.803"
+           inkscape:label="sportscraft">
+          <title
+             id="title3124">Sportscaft</title>
+        </rect>
+        <rect
+           id="lot161_lacoste"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="83.7377"
+           height="22.5779"
+           x="611.425"
+           y="667.965"
+           inkscape:label="lacoste">
+          <title
+             id="title3126">Lacoste</title>
+        </rect>
+        <rect
+           id="lot145_david_lawrence"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="89.8306"
+           height="32.1157"
+           x="429.223"
+           y="665.051"
+           inkscape:label="david_lawrence">
+          <title
+             id="title3098">David Lawrence</title>
+        </rect>
+        <rect
+           id="lot164_crabtree_and_evelyn"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="43.2546"
+           height="26.3383"
+           x="612.587"
+           y="768.611"
+           inkscape:label="crabtree_and_evelyn">
+          <title
+             id="title3130">Crabtree &amp; Evelyn</title>
+        </rect>
+        <path
+           d="m 612.006,696.212 108.648,-0.847 0.689,100.166 -66.821,-0.689 0.158,-26.289 -42.409,-0.266 -0.265,-72.075 z"
+           id="lot162_country_road"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:label="country_road">
+          <title
+             id="title3128">Country Road</title>
+        </path>
+        <rect
+           id="lot146_marcs"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="90.254"
+           height="26.4962"
+           x="428.957"
+           y="697.432"
+           inkscape:label="marcs">
+          <title
+             id="title3100">Marcs</title>
+        </rect>
+        <rect
+           id="lot147_cue"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="89.9885"
+           height="26.0228"
+           x="429.065"
+           y="723.929"
+           inkscape:label="cue">
+          <title
+             id="title3102">Cue</title>
+        </rect>
+        <rect
+           id="lot148_review"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="89.7229"
+           height="27.5585"
+           x="429.223"
+           y="749.793"
+           inkscape:label="review">
+          <title
+             id="title3104">Review</title>
+        </rect>
+        <rect
+           id="lot149_midas"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="89.6729"
+           height="32.8046"
+           x="429.223"
+           y="775.974"
+           inkscape:label="midas">
+          <title
+             id="title3106">Midas</title>
+        </rect>
+        <rect
+           id="lot150_lolitta"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="89.8306"
+           height="22.9436"
+           x="429.223"
+           y="807.666"
+           inkscape:label="lolitta">
+          <title
+             id="title3108">Lolitta</title>
+        </rect>
+        <rect
+           id="lot170_sunglass_hut_watchstation"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="14.4682"
+           height="21.3578"
+           x="543.591"
+           y="817.311"
+           inkscape:label="sunglass_hut_watchstation">
+          <title
+             id="title3134">Sunglass Hut &amp; Watchstation</title>
+        </rect>
+        <rect
+           id="lot152_rhodes_and_beckett"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="89.8306"
+           height="20.6689"
+           x="429.065"
+           y="830.452"
+           inkscape:label="rhodes_and_beckett">
+          <title
+             id="title3110">Rhodes &amp; Beckett</title>
+        </rect>
+        <rect
+           id="lot165_laura_ashley"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           width="112.99"
+           height="36.515"
+           x="609.042"
+           y="812.489"
+           inkscape:label="laura_ashley">
+          <title
+             id="title3132">Laura Ashley</title>
+        </rect>
+        <path
+           d="m 464.733,556.461 53.739,-0.689 0.316,35.718 -88.61,0 -0.689,-57.873 34.871,-0.158 0.373,23.002 z"
+           id="lot141_witchery"
+           onmouseover="showinfo(this);"
+           onmouseout="hideinfo(this);"
+           onclick="visit(this);"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:label="witchery">
+          <title
+             id="title3092">Witchery</title>
+        </path>
+      </g>
+      <rect
+         id="lot119_boost_juice"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="26.2648"
+         height="21.1813"
+         x="807.007"
+         y="208.097"
+         inkscape:label="boost_juice">
+        <title
+           id="title3158">Boost Juice</title>
+      </rect>
+      <rect
+         id="lot133_pezzi"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="15.2505"
+         height="33.8901"
+         x="742.193"
+         y="253.848"
+         inkscape:label="pezzi">
+        <title
+           id="title3076">Pezzi</title>
+      </rect>
+      <path
+         d="m 633.591,82.3978 36.321,-0.1754 -0.206,32.9886 32.784,-0.423 -0.125,25.768 -33.929,0.124 0,35.623 -35.02,0.373 0.175,-94.2782 z"
+         id="lot111_t_life"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="t_life">
+        <title
+           id="title3044">T Life</title>
+      </path>
+      <path
+         d="m 746.85,82.1284 115.659,0.073 0.05,39.6096 -56.186,0.474 -42.419,38.36 -17.352,-20.395 0.248,-58.1215 0,-1e-4 z"
+         id="lot120_pharmacy"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:label="pharmacy">
+        <title
+           id="title3058">Pharmacy</title>
+      </path>
+      <path
+         d="m 705.102,176.85 31.791,-32.462 20.389,22.33 -26.214,26.214 -9.41,-0.124 -16.556,-15.958 z"
+         id="lot113_fossil"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccc"
+         inkscape:label="fossil">
+        <title
+           id="title3056">Fossil</title>
+      </path>
+      <path
+         d="m 209.993,440.329 142.31,-145.207 46.106,-0.3 0.175,37.39 119.885,-0.423 0.05,75.158 -167.612,0.3 0.548,34.229 -138.88,-0.142 -2.582,-1.005 z"
+         id="lot112_borders"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:label="borders">
+        <title
+           id="title3054">Borders</title>
+      </path>
+      <path
+         d="m 862.854,82.5622 50.287,0.5812 0.423,19.6646 41.337,0.05 0.108,34.664 -92.479,-0.64 0.324,-54.3198 z"
+         id="lot114_jeans_west"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="jeans_west">
+        <title
+           id="title3060">Jeans West</title>
+      </path>
+      <path
+         d="m 797.129,158.664 21.358,0.266 0.316,48.384 -30.415,-0.215 0.05,-25.119 -14.785,-0.796 23.475,-22.52 z"
+         id="lot123_paris_miki"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="paris_miki">
+        <title
+           id="title3164">Paris Miki</title>
+      </path>
+      <path
+         d="m 819.284,158.664 21.566,0 -0.158,37.893 -7.737,0.158 0,10.865 -13.937,-0.108 0.266,-48.808 z"
+         id="lot122_smiggle"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="smiggle">
+        <title
+           id="title3162">Smiggle</title>
+      </path>
+      <path
+         d="m 867.403,157.975 86.809,0.689 -0.124,70.307 -36.846,0.03 0.214,-32.671 -50.161,-0.04 0.108,-38.316 0,0 0,0 z"
+         id="lot116_transit_news"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="transit_news">
+        <title
+           id="title3064">Transit News</title>
+      </path>
+      <path
+         d="m 713.076,253.74 28.62,0.108 0.316,33.652 -38.532,0.473 0.423,-20.03 9.173,-0.423 0,-13.78 z"
+         id="lot132_seafolly"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="seafolly">
+        <title
+           id="title3074">Seafolly</title>
+      </path>
+      <rect
+         id="lot115_lix"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="41.0721"
+         height="19.3988"
+         x="913.937"
+         y="82.9278"
+         inkscape:label="lix">
+        <title
+           id="title3062">Lix</title>
+      </rect>
+      <rect
+         id="rect4027"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="30.1565"
+         height="15.4227"
+         x="831.843"
+         y="121.991" />
+      <rect
+         id="lot121_max_therapy"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="25.7572"
+         height="38.3663"
+         x="840.957"
+         y="158.191"
+         inkscape:label="max_therapy">
+        <title
+           id="title3160">Max Therapy</title>
+      </rect>
+      <rect
+         id="lot117_menya"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="24.3118"
+         height="32.1667"
+         x="892.333"
+         y="196.983"
+         inkscape:label="menya">
+        <title
+           id="title3154">Menya</title>
+      </rect>
+      <rect
+         id="lot131_nationwide_currency"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="9.43764"
+         height="14.6259"
+         x="703.214"
+         y="253.159"
+         inkscape:label="nationwide_currency">
+        <title
+           id="title3072">Nationwide Currency</title>
+      </rect>
+      <rect
+         id="lot130_apres_coast"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="42.7156"
+         height="73.6112"
+         x="660.715"
+         y="253.051"
+         inkscape:label="apres_coast">
+        <title
+           id="title3070">Apres Coast</title>
+      </rect>
+      <rect
+         id="rect4039"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="42.7156"
+         height="73.7189"
+         x="617.31"
+         y="253.051" />
+      <rect
+         id="lot134_weiss_metal"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="51.6722"
+         height="24.8026"
+         x="593.885"
+         y="337.105"
+         inkscape:label="weiss_metal">
+        <title
+           id="title3078">Weiss Metal</title>
+      </rect>
+      <rect
+         id="lot135_kookai"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="78.5417"
+         height="73.7189"
+         x="594.574"
+         y="368.797"
+         inkscape:label="kookai">
+        <title
+           id="title3080">Kookai</title>
+      </rect>
+      <rect
+         id="lot118_lord_of_the_fries"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="21.3062"
+         height="32.0167"
+         x="852.353"
+         y="197.023"
+         inkscape:label="lord_of_the_fries">
+        <title
+           id="title3156">Lord of the Fries</title>
+      </rect>
+      <rect
+         id="rect4033-1-1"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="18.221"
+         height="32.0472"
+         x="873.232"
+         y="196.648" />
+      <rect
+         id="rect4033-1-1-3"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         width="18.5243"
+         height="32.1223"
+         x="833.93"
+         y="196.951" />
+      <path
+         d="m 760.555,194.207 c 0.493,-0.159 12.891,-12.725 12.891,-12.725 l 15.062,0.451 -0.256,24.939 -16.523,0.451 -11.174,-13.116 z"
+         id="lot125_kings_hairdressing"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="kings_hairdressing"
+         sodipodi:nodetypes="cccccc">
+        <title
+           id="title3168">Kings Hairdressing</title>
+      </path>
+      <path
+         d="m 732.268,220.098 27.894,-25.724 11.596,13.254 -0.197,23.731 -39.067,-0.06 -0.226,-11.202 z"
+         id="lot126_jurlique"
+         onmouseover="showinfo(this);"
+         onmouseout="hideinfo(this);"
+         onclick="visit(this);"
+         inkscape:label="jurlique"
+         sodipodi:nodetypes="cccccc">
+        <title
+           id="title3172">Jurlique</title>
+      </path>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="l1_labels"
+     inkscape:label="l1_labels"
+     style="opacity:1;display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="LevelNav"
+     style="display:inline">
+    <path
+       style="opacity:0.780269;fill:#e8ddd7;fill-opacity:1;stroke:#56423b;stroke-width:1.845704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 40.1045,444.399 81.2688,444.093 67.4804,470.86 23.4892,470.554 40.1045,444.399 z"
+       id="path3104"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="level_nav_G"
+       onclick="select_level('g')"
+       inkscape:label="level_nav_G"
+       transform="matrix(0.676284,0,0,0.745158,17.6587,87.6754)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3104-6"
+         d="m 32.1323,435.058 60.8684,-0.411 -20.3884,35.922 -65.04851,-0.411 24.56851,-35.1 z"
+         style="opacity:0.780269;fill:#e8ddd7;fill-opacity:1;stroke:#56423b;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3922"
+         y="463.27017"
+         x="39.172733"
+         style="font-size:28.173529px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4f443e;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         xml:space="preserve"><tspan
+           y="463.27017"
+           x="39.172733"
+           id="tspan3924"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="level_nav_L"
+       onclick="select_level('1')"
+       inkscape:label="level_nav_L"
+       transform="matrix(0.676284,0,0,0.745158,17.6587,87.6754)">
+      <g
+         id="g3973">
+        <path
+           style="opacity:0.780269;fill:#e8ddd7;fill-opacity:1;stroke:#56423b;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+           d="M 32.0496,391.131 92.918,390.72 72.5296,426.642 7.4811,426.231 32.0496,391.131 z"
+           id="path3104-1"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3922-8"
+         y="420.63586"
+         x="40.734222"
+         style="font-size:28.173529px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4f443e;fill-opacity:1;stroke:none;display:inline;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         xml:space="preserve"><tspan
+           y="420.63586"
+           x="40.734222"
+           id="tspan3924-5"
+           sodipodi:role="line">L</tspan></text>
+    </g>
+    <path
+       style="opacity:0.757848;fill:#e8ddd7;fill-opacity:1;stroke:#56423b;stroke-width:1.845704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 38.527,345.447 79.6913,345.141 65.903,371.908 21.9117,371.602 38.527,345.447 z"
+       id="level_indicator_blank"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="#path3104-3" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="LotsPopups"
+     style="display:inline">
+    <g
+       id="popup0"
+       inkscape:label="popup0"
+       transform="translate(-8,4)">
+      <rect
+         y="-10"
+         x="36"
+         height="46"
+         width="254"
+         id="rect2960"
+         style="opacity:0.844262;fill:#000002;fill-opacity:1;stroke:#06060b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3735"
+         y="9.6854038"
+         x="42.596764"
+         style="font-size:17.985275px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#c7c8e5;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         xml:space="preserve"
+         transform="scale(0.994795,1.00523)"><tspan
+           y="9.6854038"
+           x="42.596764"
+           id="pop_title"
+           sodipodi:role="line">pop_title</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3739"
+         y="27.152233"
+         x="43.750484"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#f5f8ff;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         xml:space="preserve"><tspan
+           y="27.152233"
+           x="43.750484"
+           id="pop_url"
+           sodipodi:role="line">pop_url</tspan></text>
+      <path
+         id="path3745"
+         d="M 36,-4 22,10.5387 36,23 36,-4 z"
+         style="opacity:0.840164;fill:#080a0e;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="directory"
+     inkscape:label="directory"
+     style="display:inline">
+    <g
+       id="dir_base_letter"
+       inkscape:label="dir_base_letter"
+       transform="matrix(0.649239,0,0,0.719391,230.918,517.372)">
+      <rect
+         y="0"
+         x="0"
+         height="31.25"
+         width="33.3333"
+         id="dir_base_letter_box"
+         style="opacity:0.757848;fill:#070101;fill-opacity:1;stroke:none"
+         inkscape:label="dir_base_letter_box" />
+      <text
+         sodipodi:linespacing="125%"
+         id="dir_base_letter_m"
+         y="24"
+         x="16"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:Silver;fill-opacity:1;stroke:none;font-family:DejaVu sans-serif;-inkscape-font-specification:DejaVu sans-serif"
+         xml:space="preserve"
+         inkscape:label="dir_base_letter_m"><tspan
+           y="24"
+           x="16"
+           id="tspan4001"
+           sodipodi:role="line">M</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="dir_title"
+       inkscape:label="dir_title"
+       transform="matrix(0.742347,0,0,0.645079,-67.13,169.329)">
+      <rect
+         y="540.161"
+         x="259.375"
+         height="34.2262"
+         width="136.111"
+         id="dir_title_box"
+         style="opacity:0.757848;fill:#070101;fill-opacity:1;stroke:none"
+         inkscape:label="dir_title_box" />
+      <text
+         sodipodi:linespacing="125%"
+         id="dir_title_text"
+         y="566.11877"
+         x="264.58301"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:Silver;fill-opacity:1;stroke:none;font-family:DejaVu sans-serif;-inkscape-font-specification:DejaVu sans-serif"
+         xml:space="preserve"
+         inkscape:label="dir_title_text"><tspan
+           y="566.11877"
+           x="264.58301"
+           id="tspan4001-9"
+           sodipodi:role="line">directory</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="popup_menus"
+     style="display:inline">
+    <g
+       id="menu_item"
+       inkscape:label="menu_item">
+      <rect
+         inkscape:label="menu_item_box"
+         y="-0.0271255"
+         x="0"
+         height="22"
+         width="228"
+         id="menu_item_box"
+         style="opacity:0.757848;fill:#070101;fill-opacity:1;stroke:none" />
+      <text
+         inkscape:label="menu_item_text"
+         sodipodi:linespacing="125%"
+         id="menu_item_text"
+         y="16"
+         x="8"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f6f6f6;fill-opacity:1;stroke:none;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         xml:space="preserve"><tspan
+           y="16"
+           x="8"
+           id="tspan3187"
+           sodipodi:role="line">menu item</tspan></text>
+    </g>
+    <g
+       id="menu_items_group"
+       inkscape:label="menu_items_group" />
+  </g>
+</svg>

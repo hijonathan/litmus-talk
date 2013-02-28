@@ -151,24 +151,42 @@ html(lang="en")
             .step.slide(data-x='3000', data-y='5000')
                 h1 And just have fun with it :]
 
-            #resources.step.slide(data-x='1500', data-y='6000')
+
+            .step.slide(data-x='1500', data-y='6000', data-scale='2')
+                h1 Peeks into the Future
+
+            .step.slide.future-set(data-x='1300', data-y='6180', data-scale='0.2')
+                h1 Interactive graphics
+                include lib/images/africa.svg
+
+            .step.slide.future-set(data-x='1500', data-y='6180', data-scale='0.2')
+                h1 OS integration
+                img(src='./lib/images/passbook.png')
+
+            .step.slide.future-set(data-x='1700', data-y='6180', data-scale='0.2')
+                h1 Email heatmaps
+                img(src='./lib/images/heatmap.jpeg')
+
+            #resources.step.slide(data-x='1500', data-y='7000')
                 h1 Resources
                 ul
                     li Dan Eden's
                         a(href='http://daneden.me/animate/')  animate.css library
                         |  for easy animations,
                     li
-                        a(href='https://github.com/hijonathan/mailgunner') Mailgunner
+                        a(href='https://github.com/hijonathan/mailgunner') Gunner
                         |  for simple one-off testing,
                     li
                         | and engineering
                         a(href='https://twitter.com/paul_irish')  tweets by Paul Irish
 
-            .step.slide(data-x='1500', data-y='6500')
+            .step.slide(data-x='1500', data-y='7500')
                 h1.accent Questions?
 
-            #fin.step.slide.accented(data-x='6000', data-y='0', data-z='3000', data-scale='4', data-rotate='90')
+            #fin.step.slide.accented(data-x='1500', data-y='8000', data-z='3000', data-scale='4')
                 h1 Thank you
+
+            #overview.step(data-x='1500', data-y='1000', data-z='3000', data-scale='10')
 
         script(type='text/javascript', src='./lib/impress/impress.js')
         script(type='text/javascript')
